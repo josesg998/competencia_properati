@@ -1,0 +1,1 @@
+# competencia_properati
