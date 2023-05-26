@@ -1,15 +1,26 @@
 ## Resto de CABA
 fold=0, score_train=95479.0 score_test=57108.0
+
 fold=1, score_train=97816.0 score_test=51359.0
+
 fold=2, score_train=95532.0 score_test=78328.0
+
 fold=3, score_train=95595.0 score_test=53826.0
+
 fold=4, score_train=95411.0 score_test=69299.0
+
 fold=5, score_train=93397.0 score_test=85791.0
+
 fold=6, score_train=94491.0 score_test=82364.0
+
 fold=7, score_train=62428.0 score_test=253449.0
+
 fold=8, score_train=95387.0 score_test=62280.0
+
 fold=9, score_train=94378.0 score_test=55461.0
+
 Train scores mean=91991.4, std=10449.609532311615
+
 Test scores mean=84926.5, std=60501.48986457551
 
 | column                  | feature_importance |
@@ -27,16 +38,27 @@ Test scores mean=84926.5, std=60501.48986457551
 
 ## La Plata
 fold=0, score_train=8390.0 score_test=61791.0
+
 fold=1, score_train=9713.0 score_test=19453.0
+
 fold=2, score_train=10993.0 score_test=22136.0
+
 fold=3, score_train=10880.0 score_test=27116.0
+
 fold=4, score_train=10980.0 score_test=13735.0
+
 fold=5, score_train=9934.0 score_test=37256.0
+
 fold=6, score_train=10266.0 score_test=22440.0
+
 fold=7, score_train=10821.0 score_test=7721.0
+
 fold=8, score_train=11185.0 score_test=10119.0
+
 fold=9, score_train=10716.0 score_test=7947.0
+
 Train scores mean=10387.8, std=853.5848327299792
+
 Test scores mean=22971.4, std=16500.339506271444
 
 | column             | feature_importance |
@@ -54,16 +76,27 @@ Test scores mean=22971.4, std=16500.339506271444
 
 ## Puerto Madero y Catalinas
 fold=0, score_train=178823.0 score_test=220512.0
+
 fold=1, score_train=178174.0 score_test=234149.0
+
 fold=2, score_train=177049.0 score_test=221626.0
+
 fold=3, score_train=180904.0 score_test=183760.0
+
 fold=4, score_train=174806.0 score_test=263824.0
+
 fold=5, score_train=178308.0 score_test=192065.0
+
 fold=6, score_train=173419.0 score_test=378624.0
+
 fold=7, score_train=181327.0 score_test=147473.0
+
 fold=8, score_train=165395.0 score_test=427007.0
+
 fold=9, score_train=173555.0 score_test=328847.0
+
 Train scores mean=176176.0, std=4687.696686243919
+
 Test scores mean=259788.7, std=90374.06529905456
 
 | column             | feature_importance |
@@ -81,16 +114,27 @@ Test scores mean=259788.7, std=90374.06529905456
 
 ## Corredor Norte
 fold=0, score_train=175357.0 score_test=637186.0
+
 fold=1, score_train=194285.0 score_test=163432.0
+
 fold=2, score_train=190108.0 score_test=196686.0
+
 fold=3, score_train=194474.0 score_test=242532.0
+
 fold=4, score_train=191592.0 score_test=183442.0
+
 fold=5, score_train=190515.0 score_test=207057.0
+
 fold=6, score_train=193944.0 score_test=173666.0
+
 fold=7, score_train=192647.0 score_test=156287.0
+
 fold=8, score_train=189927.0 score_test=216826.0
+
 fold=9, score_train=194013.0 score_test=200673.0
+
 Train scores mean=190686.2, std=5672.244721252582
+
 Test scores mean=237778.7, std=142683.92062570408
 
 | column                      | feature_importance |
@@ -109,16 +153,27 @@ Test scores mean=237778.7, std=142683.92062570408
 
 ## Corredor Sur
 fold=0, score_train=45367.0 score_test=40927.0
+
 fold=1, score_train=44678.0 score_test=40555.0
+
 fold=2, score_train=45439.0 score_test=37905.0
+
 fold=3, score_train=44994.0 score_test=42182.0
+
 fold=4, score_train=43196.0 score_test=73276.0
+
 fold=5, score_train=46095.0 score_test=46150.0
+
 fold=6, score_train=42520.0 score_test=81551.0
+
 fold=7, score_train=45683.0 score_test=38687.0
+
 fold=8, score_train=45754.0 score_test=40778.0
+
 fold=9, score_train=39631.0 score_test=92820.0
+
 Train scores mean=44335.7, std=2013.3772649732368
+
 Test scores mean=53483.1, std=20699.596284039508
 
 | column                   | feature_importance |
@@ -136,16 +191,27 @@ Test scores mean=53483.1, std=20699.596284039508
 
 ## Caballito
 fold=0, score_train=129374.0 score_test=126308.0
+
 fold=1, score_train=123943.0 score_test=51563.0
+
 fold=2, score_train=61451.0 score_test=341421.0
+
 fold=3, score_train=124889.0 score_test=88268.0
+
 fold=4, score_train=128144.0 score_test=58139.0
+
 fold=5, score_train=130239.0 score_test=119575.0
+
 fold=6, score_train=126870.0 score_test=71678.0
+
 fold=7, score_train=125533.0 score_test=84358.0
+
 fold=8, score_train=126367.0 score_test=66550.0
+
 fold=9, score_train=125060.0 score_test=44322.0
+
 Train scores mean=120187.0, std=20736.63503185713
+
 Test scores mean=105218.2, std=87298.3204392336
 
 | column           | feature_importance |
