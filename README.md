@@ -25,16 +25,16 @@ Test scores mean=89819.6, std=56071.49891225191
 
 column | feature_importance
 -------|-------------------
-0 | surface_covered | 37.452808
-2 | desc_sistema | 10.287880
-1 | desc_descripcion | 9.562301
-3 | bathrooms | 8.921306
-13 | desc_propiedades | 3.626606
-6 | desc_en | 3.218120
-9 | surface_covered_imputed | 2.555179
-8 | desc_web | 2.478548
-7 | desc_propiedad | 2.371857
-4 | lon | 2.145758
+surface_covered | 37.452808
+desc_sistema | 10.287880
+desc_descripcion | 9.562301
+bathrooms | 8.921306
+ desc_propiedades | 3.626606
+desc_en | 3.218120
+surface_covered_imputed | 2.555179
+desc_web | 2.478548
+desc_propiedad | 2.371857
+lon | 2.145758
 
 La Plata
 fold=0, score_train=8390.0 score_test=61791.0
@@ -63,16 +63,16 @@ Test scores mean=22971.4, std=16500.339506271444
 
 column | feature_importance
 -------|-------------------
-0 | surface_covered | 26.121694
-2 | pasillo | 7.461533
-5 | bano dormitorio | 6.313249
-1 | dormitorio | 6.304603
-3 | surface_total | 5.505675
-4 | rooms | 3.189154
-7 | lon | 2.806421
-13 | bathrooms | 2.538298
-19 | mts | 2.049968
-18 | consta | 1.616701
+surface_covered | 26.121694
+pasillo | 7.461533
+bano dormitorio | 6.313249
+dormitorio | 6.304603
+surface_total | 5.505675
+rooms | 3.189154
+lon | 2.806421
+ bathrooms | 2.538298
+ mts | 2.049968
+ consta | 1.616701
 
 Puerto Madero y Catalinas
 fold=0, score_train=178823.0 score_test=220512.0
@@ -101,16 +101,16 @@ Test scores mean=259788.7, std=90374.06529905456
 
 column | feature_importance
 -------|-------------------
-0 | surface_covered | 86.045254
-2 | cocheras | 0.910046
-1 | surface_total | 0.877145
-5 | excelentes | 0.861889
-4 | alvear | 0.516843
-3 | amoblado | 0.497395
-12 | real | 0.445198
-15 | diario | 0.384339
-10 | covered | 0.315167
-8 | semi integrada | 0.306127
+surface_covered | 86.045254
+cocheras | 0.910046
+surface_total | 0.877145
+excelentes | 0.861889
+alvear | 0.516843
+amoblado | 0.497395
+ real | 0.445198
+ diario | 0.384339
+ covered | 0.315167
+semi integrada | 0.306127
 
 Corredor Norte
 fold=0, score_train=178806.0 score_test=279317.0
@@ -139,16 +139,16 @@ Test scores mean=230119.9, std=147979.79646218225
 
 column | feature_importance
 -------|-------------------
-0 | surface_covered | 58.201518
-1 | bathrooms_rooms | 19.891888
-2 | desc_cocheras | 7.202859
-3 | surface_covered_imputed | 3.300964
-7 | desc_pileta|piscina | 1.083325
-5 | desc_climatizada | 1.036580
-4 | surface_total | 0.920416
-10 | covered | 0.783113
-9 | desc_suite | 0.658800
-11 | desc_amenities pileta | 0.580590
+surface_covered | 58.201518
+bathrooms_rooms | 19.891888
+desc_cocheras | 7.202859
+surface_covered_imputed | 3.300964
+desc_pileta|piscina | 1.083325
+desc_climatizada | 1.036580
+surface_total | 0.920416
+ covered | 0.783113
+desc_suite | 0.658800
+ desc_amenities pileta | 0.580590
 
 Corredor Sur
 fold=0, score_train=29383.0 score_test=69630.0
@@ -177,16 +177,16 @@ Test scores mean=43328.2, std=21753.08422985373
 
 column | feature_importance
 -------|-------------------
-0 | bathrooms | 19.655711
-1 | surface_covered | 16.875181
-2 | lon | 7.629640
-5 | br apto | 4.068041
-3 | surface_total | 2.982859
-10 | balcon frente | 2.642688
-6 | venta | 2.525532
-7 | bano ducha | 2.389282
-8 | lat | 1.893797
-4 | start_month | 1.770626
+bathrooms | 19.655711
+surface_covered | 16.875181
+lon | 7.629640
+br apto | 4.068041
+surface_total | 2.982859
+ balcon frente | 2.642688
+venta | 2.525532
+bano ducha | 2.389282
+lat | 1.893797
+start_month | 1.770626
 
 Caballito
 fold=0, score_train=70592.0 score_test=87884.0
@@ -215,13 +215,13 @@ Test scores mean=92151.0, std=88824.95081025627
 
 column | feature_importance
 -------|-------------------
-0 | desc_amplios | 21.268790
-1 | surface_covered | 15.874673
-3 | desc_avenidas | 9.573757
-2 | desc_presente | 7.551794
-15 | desc_mts | 6.211818
-5 | desc_rio | 4.789092
-7 | desc_pleno | 4.448673
-12 | desc_oferta | 3.358024
-4 | desc_br | 3.287571
-9 | desc_campeador | 2.923063
+desc_amplios | 21.268790
+surface_covered | 15.874673
+desc_avenidas | 9.573757
+desc_presente | 7.551794
+ desc_mts | 6.211818
+desc_rio | 4.789092
+desc_pleno | 4.448673
+ desc_oferta | 3.358024
+desc_br | 3.287571
+desc_campeador | 2.923063
