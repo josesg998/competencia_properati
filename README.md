@@ -1,227 +1,303 @@
-Resto de CABA
-fold=0, score_train=69136.0 score_test=53502.0
+## Resto de CABA
 
-fold=1, score_train=68753.0 score_test=53017.0
+fold=0, score_train=96324.0 score_test=51716.0
 
-fold=2, score_train=67960.0 score_test=70426.0
+fold=1, score_train=96887.0 score_test=51901.0
 
-fold=3, score_train=64901.0 score_test=87902.0
+fold=2, score_train=95906.0 score_test=70292.0
 
-fold=4, score_train=69714.0 score_test=76220.0
+fold=3, score_train=93728.0 score_test=87045.0
 
-fold=5, score_train=68001.0 score_test=54152.0
+fold=4, score_train=94528.0 score_test=81184.0
 
-fold=6, score_train=67370.0 score_test=103072.0
+fold=5, score_train=95746.0 score_test=54281.0
 
-fold=7, score_train=67054.0 score_test=100848.0
+fold=6, score_train=91875.0 score_test=97420.0
 
-fold=8, score_train=68164.0 score_test=59090.0
+fold=7, score_train=95877.0 score_test=69072.0
 
-fold=9, score_train=59140.0 score_test=239967.0
+fold=8, score_train=96928.0 score_test=55478.0
 
-Train scores mean=67019.3, std=3065.965320163365
+fold=9, score_train=66517.0 score_test=238992.0
 
-Test scores mean=89819.6, std=56071.49891225191
+Train scores mean=92431.6, std=9238.195509225092
 
-column | feature_importance
--------|-------------------
-surface_covered | 37.452808
-desc_sistema | 10.287880
-desc_descripcion | 9.562301
-bathrooms | 8.921306
- desc_propiedades | 3.626606
-desc_en | 3.218120
-surface_covered_imputed | 2.555179
-desc_web | 2.478548
-desc_propiedad | 2.371857
-lon | 2.145758
+Test scores mean=85738.1, std=56144.34648386247
 
-La Plata
-fold=0, score_train=8390.0 score_test=61791.0
+column	feature_importance
+surface_covered	61.836180
+bathrooms	13.649695
+lon	5.006545
+surface_covered_imputed	3.552411
+desc_suite	3.296034
+surface_total	3.254441
+desc_pileta|piscina	1.944189
+lat	1.720680
+start_month	0.937265
+start_year	0.803369
 
-fold=1, score_train=9713.0 score_test=19453.0
+## La Plata
 
-fold=2, score_train=10993.0 score_test=22136.0
+fold=0, score_train=8346.0 score_test=61895.0
 
-fold=3, score_train=10880.0 score_test=27116.0
+fold=1, score_train=9683.0 score_test=17951.0
 
-fold=4, score_train=10980.0 score_test=13735.0
+fold=2, score_train=10782.0 score_test=22145.0
 
-fold=5, score_train=9934.0 score_test=37256.0
+fold=3, score_train=10557.0 score_test=26851.0
 
-fold=6, score_train=10266.0 score_test=22440.0
+fold=4, score_train=10878.0 score_test=12885.0
 
-fold=7, score_train=10821.0 score_test=7721.0
+fold=5, score_train=9686.0 score_test=36190.0
 
-fold=8, score_train=11185.0 score_test=10119.0
+fold=6, score_train=10396.0 score_test=24265.0
 
-fold=9, score_train=10716.0 score_test=7947.0
+fold=7, score_train=10916.0 score_test=7963.0
 
-Train scores mean=10387.8, std=853.5848327299792
+fold=8, score_train=11038.0 score_test=9939.0
 
-Test scores mean=22971.4, std=16500.339506271444
+fold=9, score_train=10731.0 score_test=7800.0
 
-column | feature_importance
--------|-------------------
-surface_covered | 26.121694
-pasillo | 7.461533
-bano dormitorio | 6.313249
-dormitorio | 6.304603
-surface_total | 5.505675
-rooms | 3.189154
-lon | 2.806421
- bathrooms | 2.538298
- mts | 2.049968
- consta | 1.616701
+Train scores mean=10301.3, std=838.4720296136566
 
-Puerto Madero y Catalinas
-fold=0, score_train=178823.0 score_test=220512.0
+Test scores mean=22788.4, std=16529.628437041974
 
-fold=1, score_train=178174.0 score_test=234149.0
+column	feature_importance
+surface_covered	25.946017
+pasillo	7.545956
+bano dormitorio	6.447043
+dormitorio	6.303504
+surface_total	5.713129
+rooms	3.274841
+lon	2.955651
+mts	2.289604
+bathrooms	1.884629
+25	1.686467
 
-fold=2, score_train=177049.0 score_test=221626.0
+## Puerto Madero y Catalinas
 
-fold=3, score_train=180904.0 score_test=183760.0
+fold=0, score_train=179059.0 score_test=220986.0
 
-fold=4, score_train=174806.0 score_test=263824.0
+fold=1, score_train=177947.0 score_test=241369.0
 
-fold=5, score_train=178308.0 score_test=192065.0
+fold=2, score_train=177403.0 score_test=223463.0
 
-fold=6, score_train=173419.0 score_test=378624.0
+fold=3, score_train=181115.0 score_test=183702.0
 
-fold=7, score_train=181327.0 score_test=147473.0
+fold=4, score_train=175183.0 score_test=264114.0
 
-fold=8, score_train=165395.0 score_test=427007.0
+fold=5, score_train=178932.0 score_test=191413.0
 
-fold=9, score_train=173555.0 score_test=328847.0
+fold=6, score_train=173530.0 score_test=373944.0
 
-Train scores mean=176176.0, std=4687.696686243919
+fold=7, score_train=181401.0 score_test=147639.0
 
-Test scores mean=259788.7, std=90374.06529905456
+fold=8, score_train=165481.0 score_test=429316.0
 
-column | feature_importance
--------|-------------------
-surface_covered | 86.045254
-cocheras | 0.910046
-surface_total | 0.877145
-excelentes | 0.861889
-alvear | 0.516843
-amoblado | 0.497395
- real | 0.445198
- diario | 0.384339
- covered | 0.315167
-semi integrada | 0.306127
+fold=9, score_train=173600.0 score_test=329937.0
 
-Corredor Norte
-fold=0, score_train=178806.0 score_test=279317.0
+Train scores mean=176365.1, std=4724.547231687333
 
-fold=1, score_train=181307.0 score_test=186206.0
+Test scores mean=260588.3, std=90006.48458620449
 
-fold=2, score_train=185291.0 score_test=173239.0
+column	feature_importance
+surface_covered	86.041571
+cocheras	0.903497
+surface_total	0.856728
+excelentes	0.751930
+alvear	0.520376
+amoblado	0.481035
+real	0.423189
+diario	0.362957
+covered	0.326811
+semi integrada	0.315349
 
-fold=3, score_train=185918.0 score_test=167952.0
+## Corredor Norte
 
-fold=4, score_train=188718.0 score_test=182164.0
+fold=0, score_train=117253.0 score_test=130482.0
 
-fold=5, score_train=186008.0 score_test=169125.0
+fold=1, score_train=118562.0 score_test=110403.0
 
-fold=6, score_train=188491.0 score_test=162309.0
+fold=2, score_train=116668.0 score_test=125707.0
 
-fold=7, score_train=186314.0 score_test=153288.0
+fold=3, score_train=116555.0 score_test=143606.0
 
-fold=8, score_train=186272.0 score_test=188372.0
+fold=4, score_train=110397.0 score_test=212616.0
 
-fold=9, score_train=164502.0 score_test=639227.0
+fold=5, score_train=118549.0 score_test=108496.0
 
-Train scores mean=183162.7, std=7224.294122380862
+fold=6, score_train=118423.0 score_test=119077.0
 
-Test scores mean=230119.9, std=147979.79646218225
+fold=7, score_train=115999.0 score_test=141118.0
 
-column | feature_importance
--------|-------------------
-surface_covered | 58.201518
-bathrooms_rooms | 19.891888
-desc_cocheras | 7.202859
-surface_covered_imputed | 3.300964
-desc_pileta|piscina | 1.083325
-desc_climatizada | 1.036580
-surface_total | 0.920416
- covered | 0.783113
-desc_suite | 0.658800
- desc_amenities pileta | 0.580590
+fold=8, score_train=116004.0 score_test=139455.0
 
-Corredor Sur
-fold=0, score_train=29383.0 score_test=69630.0
+fold=9, score_train=117810.0 score_test=117216.0
 
-fold=1, score_train=30454.0 score_test=39752.0
+Train scores mean=116622.0, std=2405.0252481927178
 
-fold=2, score_train=31566.0 score_test=33492.0
+Test scores mean=134817.6, std=30072.70842179371
 
-fold=3, score_train=26682.0 score_test=94514.0
+column	feature_importance
+surface_covered	70.910924
+surface_total	14.353176
+lon	6.214488
+covered	2.204862
+lat	1.793378
+surface_covered_imputed	1.245715
+desc_pileta|piscina	0.619497
+1desc_a(mm|m)enities	0.471110
+bathrooms_rooms	0.399681
+desc_suite	0.397119
 
-fold=4, score_train=30928.0 score_test=33874.0
+## Corredor Sur
 
-fold=5, score_train=30501.0 score_test=39585.0
+fold=0, score_train=29371.0 score_test=70144.0
 
-fold=6, score_train=31569.0 score_test=26604.0
+fold=1, score_train=30459.0 score_test=40532.0
 
-fold=7, score_train=31317.0 score_test=36198.0
+fold=2, score_train=31454.0 score_test=32802.0
 
-fold=8, score_train=31416.0 score_test=25435.0
+fold=3, score_train=26688.0 score_test=94519.0
 
-fold=9, score_train=29976.0 score_test=34198.0
+fold=4, score_train=30868.0 score_test=33175.0
 
-Train scores mean=30379.2, std=1487.8928276817073
+fold=5, score_train=30389.0 score_test=39670.0
 
-Test scores mean=43328.2, std=21753.08422985373
+fold=6, score_train=31529.0 score_test=26654.0
 
-column | feature_importance
--------|-------------------
-bathrooms | 19.655711
-surface_covered | 16.875181
-lon | 7.629640
-br apto | 4.068041
-surface_total | 2.982859
- balcon frente | 2.642688
-venta | 2.525532
-bano ducha | 2.389282
-lat | 1.893797
-start_month | 1.770626
+fold=7, score_train=31361.0 score_test=36513.0
 
-Caballito
-fold=0, score_train=70592.0 score_test=87884.0
+fold=8, score_train=31412.0 score_test=25313.0
 
-fold=1, score_train=81350.0 score_test=47035.0
+fold=9, score_train=29972.0 score_test=33830.0
 
-fold=2, score_train=49093.0 score_test=341832.0
+Train scores mean=30350.3, std=1473.9258273211867
 
-fold=3, score_train=79374.0 score_test=46121.0
+Test scores mean=43315.2, std=21893.45943325439
 
-fold=4, score_train=72172.0 score_test=52982.0
+column	feature_importance
+bathrooms	19.609814
+surface_covered	16.639149
+lon	8.238512
+br apto	3.825935
+surface_total	3.010455
+balcon frente	2.646699
+venta	2.304358
+bano ducha	2.097583
+lat	1.640658
+115	1.625756
 
-fold=5, score_train=73602.0 score_test=67210.0
+## Caballito
 
-fold=6, score_train=73639.0 score_test=62600.0
+fold=0, score_train=129279.0 score_test=126278.0
 
-fold=7, score_train=76325.0 score_test=59256.0
+fold=1, score_train=123956.0 score_test=51574.0
 
-fold=8, score_train=79330.0 score_test=77949.0
+fold=2, score_train=61644.0 score_test=341422.0
 
-fold=9, score_train=79242.0 score_test=78641.0
+fold=3, score_train=124990.0 score_test=90670.0
 
-Train scores mean=73471.9, std=9291.632979909038
+fold=4, score_train=128192.0 score_test=57988.0
 
-Test scores mean=92151.0, std=88824.95081025627
+fold=5, score_train=130275.0 score_test=119973.0
 
-column | feature_importance
--------|-------------------
-desc_amplios | 21.268790
-surface_covered | 15.874673
-desc_avenidas | 9.573757
-desc_presente | 7.551794
- desc_mts | 6.211818
-desc_rio | 4.789092
-desc_pleno | 4.448673
- desc_oferta | 3.358024
-desc_br | 3.287571
-desc_campeador | 2.923063
+fold=6, score_train=126781.0 score_test=70607.0
+
+fold=7, score_train=125555.0 score_test=84634.0
+
+fold=8, score_train=126366.0 score_test=66521.0
+
+fold=9, score_train=125080.0 score_test=44356.0
+
+Train scores mean=120211.8, std=20676.021677295656
+
+Test scores mean=105402.3, std=87303.10083973726
+
+column	feature_importance
+lat	37.690279
+surface_covered	23.622087
+desc_centro	9.348639
+surface_total	6.959744
+bedrooms_imputed	6.084620
+desc_avenida	3.665711
+lon	3.104603
+desc_subte	3.069626
+bathrooms	2.156346
+desc_estacion	1.605793
+
+## Palermo
+
+fold=0, score_train=148246.0 score_test=140499.0
+
+fold=1, score_train=144705.0 score_test=177574.0
+
+fold=2, score_train=150458.0 score_test=145375.0
+
+fold=3, score_train=148704.0 score_test=177202.0
+
+fold=4, score_train=149984.0 score_test=160735.0
+
+fold=5, score_train=147555.0 score_test=181496.0
+
+fold=6, score_train=142487.0 score_test=226015.0
+
+fold=7, score_train=149959.0 score_test=139900.0
+
+fold=8, score_train=147434.0 score_test=153400.0
+
+fold=9, score_train=149387.0 score_test=159755.0
+
+Train scores mean=147891.9, std=2537.437922612317
+
+Test scores mean=166195.1, std=25998.653291832037
+
+column	feature_importance
+surface_covered	76.459466
+desc_a(mm|m)enities	5.798691
+lat	4.746817
+surface_total	3.646968
+desc_suite	1.965267
+surface_covered_imputed	1.815052
+lon	1.688994
+desc_pileta|piscina	1.112346
+covered	0.674554
+bathrooms_rooms	0.433848
+
+## Belgrano
+
+fold=0, score_train=140871.0 score_test=156471.0
+
+fold=1, score_train=131050.0 score_test=389509.0
+
+fold=2, score_train=144373.0 score_test=128633.0
+
+fold=3, score_train=141484.0 score_test=145556.0
+
+fold=4, score_train=144052.0 score_test=130081.0
+
+fold=5, score_train=145552.0 score_test=137165.0
+
+fold=6, score_train=141392.0 score_test=211423.0
+
+fold=7, score_train=141377.0 score_test=192496.0
+
+fold=8, score_train=145497.0 score_test=144019.0
+
+fold=9, score_train=144286.0 score_test=158424.0
+
+Train scores mean=141993.4, std=4244.134467447724
+
+Test scores mean=179377.7, std=78527.54296855198
+
+column	feature_importance
+surface_covered	66.169760
+desc_a(mm|m)enities	6.967770
+lon	4.291588
+desc_pileta|piscina	4.230066
+lat	3.898009
+surface_covered_imputed	3.381962
+surface_total	2.787483
+bathrooms	1.301952
+bathrooms_rooms	1.228824
+desc_suite	1.044672
