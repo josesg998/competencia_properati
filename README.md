@@ -24,8 +24,6 @@ Train scores mean=57333.4, std=2072.4837058734893
 
 Test scores mean=59804.8, std=19015.258345748436
 
-
-
 ## La Plata
 
 fold=0, score_train=8415.0 score_test=62213.0
@@ -51,8 +49,6 @@ fold=9, score_train=10748.0 score_test=7867.0
 Train scores mean=10336.5, std=812.8686172370593
 
 Test scores mean=22781.4, std=16600.11291260126
-
-
 
 ## Puerto Madero y Catalinas
 
@@ -80,8 +76,6 @@ Train scores mean=176546.6, std=4708.868705845268
 
 Test scores mean=260222.9, std=89504.58307750379
 
-
-
 ## Corredor Norte
 
 fold=0, score_train=117218.0 score_test=130280.0
@@ -108,35 +102,31 @@ Train scores mean=116536.3, std=2398.7491207803378
 
 Test scores mean=134769.5, std=29953.61404368057
 
-
-
 ## Corredor Sur
 
-fold=0, score_train=29373.0 score_test=69445.0
+fold=0, score_train=30670.0 score_test=70368.0
 
-fold=1, score_train=30473.0 score_test=40371.0
+fold=1, score_train=35505.0 score_test=49533.0
 
-fold=2, score_train=31556.0 score_test=32781.0
+fold=2, score_train=36452.0 score_test=33925.0
 
-fold=3, score_train=26701.0 score_test=94589.0
+fold=3, score_train=32788.0 score_test=94865.0
 
-fold=4, score_train=30803.0 score_test=33662.0
+fold=4, score_train=35880.0 score_test=32312.0
 
-fold=5, score_train=30424.0 score_test=39648.0
+fold=5, score_train=35916.0 score_test=38805.0
 
-fold=6, score_train=31553.0 score_test=26749.0
+fold=6, score_train=36749.0 score_test=27147.0
 
-fold=7, score_train=31391.0 score_test=36599.0
+fold=7, score_train=36269.0 score_test=43935.0
 
-fold=8, score_train=31430.0 score_test=25316.0
+fold=8, score_train=36599.0 score_test=26111.0
 
-fold=9, score_train=29899.0 score_test=33882.0
+fold=9, score_train=35969.0 score_test=33357.0
 
-Train scores mean=30360.3, std=1485.0967084110491
+Train scores mean=35279.7, std=1972.066938800788
 
-Test scores mean=43304.2, std=21783.125226243872
-
-
+Test scores mean=45035.8, std=21819.52621850438
 
 ## Caballito
 
@@ -164,8 +154,6 @@ Train scores mean=120193.0, std=20796.58724673621
 
 Test scores mean=105000.7, std=87408.0463675335
 
-
-
 ## Palermo
 
 fold=0, score_train=148246.0 score_test=140340.0
@@ -191,8 +179,6 @@ fold=9, score_train=149370.0 score_test=159852.0
 Train scores mean=147867.6, std=2541.6489048559706
 
 Test scores mean=166137.2, std=26064.191927708875
-
-
 
 ## Belgrano
 
@@ -220,8 +206,6 @@ Train scores mean=149251.5, std=6225.666537274008
 
 Test scores mean=185401.9, std=76403.05567253185
 
-
-
 ## Noroeste
 
 fold=0, score_train=44384.0 score_test=48555.0
@@ -247,8 +231,6 @@ fold=9, score_train=43737.0 score_test=64381.0
 Train scores mean=44371.9, std=416.00466076448924
 
 Test scores mean=49423.5, std=5906.228524946261
-
-
 
 ## Centro
 
@@ -276,58 +258,54 @@ Train scores mean=52393.0, std=2785.6689202655316
 
 Test scores mean=77111.4, std=52551.39012052869
 
-
-
 ## devoto
 
-fold=0, score_train=47626.0 score_test=89216.0
+fold=0, score_train=51348.0 score_test=86716.0
 
-fold=1, score_train=49478.0 score_test=73643.0
+fold=1, score_train=53178.0 score_test=75170.0
 
-fold=2, score_train=48661.0 score_test=86200.0
+fold=2, score_train=51611.0 score_test=90854.0
 
-fold=3, score_train=50095.0 score_test=59210.0
+fold=3, score_train=53829.0 score_test=60777.0
 
-fold=4, score_train=48590.0 score_test=70963.0
+fold=4, score_train=51466.0 score_test=70443.0
 
-fold=5, score_train=49954.0 score_test=52977.0
+fold=5, score_train=53985.0 score_test=56395.0
 
-fold=6, score_train=45079.0 score_test=113935.0
+fold=6, score_train=48743.0 score_test=107116.0
 
-fold=7, score_train=48925.0 score_test=68405.0
+fold=7, score_train=52038.0 score_test=77132.0
 
-fold=8, score_train=50577.0 score_test=40872.0
+fold=8, score_train=54200.0 score_test=44686.0
 
-fold=9, score_train=48702.0 score_test=53305.0
+fold=9, score_train=52945.0 score_test=61330.0
 
-Train scores mean=48768.7, std=1560.951422833025
+Train scores mean=52334.3, std=1658.6367930053618
 
-Test scores mean=70872.6, std=21355.398626316695
-
-
+Test scores mean=73061.9, std=18445.34549810451
 
 ## Barracas
 
-fold=0, score_train=33774.0 score_test=48232.0
+fold=0, score_train=34937.0 score_test=46393.0
 
-fold=1, score_train=33419.0 score_test=55968.0
+fold=1, score_train=34655.0 score_test=57439.0
 
-fold=2, score_train=34541.0 score_test=45928.0
+fold=2, score_train=35412.0 score_test=43992.0
 
-fold=3, score_train=35081.0 score_test=33863.0
+fold=3, score_train=35953.0 score_test=32920.0
 
-fold=4, score_train=35389.0 score_test=56426.0
+fold=4, score_train=35277.0 score_test=49567.0
 
-fold=5, score_train=34137.0 score_test=51627.0
+fold=5, score_train=35217.0 score_test=50078.0
 
-fold=6, score_train=34807.0 score_test=45243.0
+fold=6, score_train=35666.0 score_test=44227.0
 
-fold=7, score_train=34410.0 score_test=46512.0
+fold=7, score_train=35491.0 score_test=47260.0
 
-fold=8, score_train=33866.0 score_test=49810.0
+fold=8, score_train=34461.0 score_test=52601.0
 
-fold=9, score_train=34124.0 score_test=51412.0
+fold=9, score_train=34707.0 score_test=46201.0
 
-Train scores mean=34354.8, std=613.8964443979493     
+Train scores mean=35177.6, std=479.6242047455255
 
-Test scores mean=48502.1, std=6446.837285746313
+Test scores mean=47067.8, std=6432.728551883891
