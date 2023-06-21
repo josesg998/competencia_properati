@@ -3,683 +3,683 @@
 
 MAX DEPTH 5
 MIN_SAMPLES_split 2
-fold=0, score_train=48026.0 score_test=54957.0
-fold=1, score_train=48753.0 score_test=47425.0
-fold=2, score_train=47725.0 score_test=58195.0
-fold=3, score_train=48937.0 score_test=48064.0
-fold=4, score_train=48552.0 score_test=52509.0
-fold=5, score_train=48892.0 score_test=46324.0
-fold=6, score_train=48041.0 score_test=55986.0
-fold=7, score_train=48691.0 score_test=46272.0
-fold=8, score_train=48428.0 score_test=53624.0
-fold=9, score_train=49081.0 score_test=42361.0
-Train scores mean=48512.6, std=450.3043908784862
-Test scores mean=50571.7, std=5162.537275625448
+fold=0, score_train=48023.0 score_test=54948.0
+fold=1, score_train=48745.0 score_test=47391.0
+fold=2, score_train=47729.0 score_test=58170.0
+fold=3, score_train=48928.0 score_test=48049.0
+fold=4, score_train=48551.0 score_test=52479.0
+fold=5, score_train=48897.0 score_test=46298.0
+fold=6, score_train=48036.0 score_test=55969.0
+fold=7, score_train=48691.0 score_test=46263.0
+fold=8, score_train=48427.0 score_test=53679.0
+fold=9, score_train=49084.0 score_test=42367.0
+Train scores mean=48511.1, std=449.9776414198574
+Test scores mean=50561.3, std=5163.293674261292
 
 MAX DEPTH 7
 MIN_SAMPLES_split 2
-fold=0, score_train=40362.0 score_test=49041.0
-fold=1, score_train=41073.0 score_test=43790.0
-fold=2, score_train=40198.0 score_test=54019.0
-fold=3, score_train=41305.0 score_test=42029.0
-fold=4, score_train=40922.0 score_test=47284.0
-fold=5, score_train=41253.0 score_test=41651.0
-fold=6, score_train=40654.0 score_test=50544.0
-fold=7, score_train=41123.0 score_test=41371.0
-fold=8, score_train=40888.0 score_test=48569.0
-fold=9, score_train=41300.0 score_test=38639.0
-Train scores mean=40907.8, std=390.3097914904689
-Test scores mean=45693.7, std=4906.785574872594
+fold=0, score_train=40363.0 score_test=49023.0
+fold=1, score_train=41075.0 score_test=43811.0
+fold=2, score_train=40200.0 score_test=53936.0
+fold=3, score_train=41300.0 score_test=42071.0
+fold=4, score_train=40922.0 score_test=47257.0
+fold=5, score_train=41253.0 score_test=41669.0
+fold=6, score_train=40653.0 score_test=50563.0
+fold=7, score_train=41117.0 score_test=41386.0
+fold=8, score_train=40900.0 score_test=48479.0
+fold=9, score_train=41306.0 score_test=38651.0
+Train scores mean=40908.9, std=389.61931562887264
+Test scores mean=45684.6, std=4875.715701309911
 
 MAX DEPTH 10
 MIN_SAMPLES_split 2
-fold=0, score_train=30640.0 score_test=44634.0
-fold=1, score_train=30873.0 score_test=40442.0
-fold=2, score_train=30537.0 score_test=49383.0
-fold=3, score_train=31409.0 score_test=36438.0
-fold=4, score_train=30947.0 score_test=42778.0
-fold=5, score_train=31348.0 score_test=37286.0
-fold=6, score_train=30774.0 score_test=46832.0
-fold=7, score_train=31254.0 score_test=37225.0
-fold=8, score_train=30841.0 score_test=45386.0
-fold=9, score_train=31323.0 score_test=34398.0
-Train scores mean=30994.6, std=315.55989042405946
-Test scores mean=41480.2, std=5058.977296735861
+fold=0, score_train=30639.0 score_test=44645.0
+fold=1, score_train=30874.0 score_test=40512.0
+fold=2, score_train=30537.0 score_test=49404.0
+fold=3, score_train=31411.0 score_test=36477.0
+fold=4, score_train=30950.0 score_test=42778.0
+fold=5, score_train=31363.0 score_test=37317.0
+fold=6, score_train=30771.0 score_test=46803.0
+fold=7, score_train=31250.0 score_test=37240.0
+fold=8, score_train=30839.0 score_test=45467.0
+fold=9, score_train=31314.0 score_test=34461.0
+Train scores mean=30994.8, std=316.74448166726864
+Test scores mean=41510.4, std=5047.052213366179
 
-MAX DEPTH None
+MAX DEPTH 30
 MIN_SAMPLES_split 2
-fold=0, score_train=14567.0 score_test=40502.0
-fold=1, score_train=14812.0 score_test=37143.0
-fold=2, score_train=14872.0 score_test=45958.0
-fold=3, score_train=15281.0 score_test=31907.0
-fold=4, score_train=15076.0 score_test=39539.0
-fold=5, score_train=15389.0 score_test=32919.0
-fold=6, score_train=15025.0 score_test=43447.0
-fold=7, score_train=15388.0 score_test=33146.0
-fold=8, score_train=14811.0 score_test=42347.0
-fold=9, score_train=15490.0 score_test=30191.0
-Train scores mean=15071.1, std=307.627642884489
-Test scores mean=37709.9, std=5455.887573173692
+fold=0, score_train=14565.0 score_test=40509.0
+fold=1, score_train=14808.0 score_test=37183.0
+fold=2, score_train=14850.0 score_test=46023.0
+fold=3, score_train=15280.0 score_test=31882.0
+fold=4, score_train=15075.0 score_test=39648.0
+fold=5, score_train=15419.0 score_test=32871.0
+fold=6, score_train=15031.0 score_test=43540.0
+fold=7, score_train=15382.0 score_test=33179.0
+fold=8, score_train=14809.0 score_test=42307.0
+fold=9, score_train=15526.0 score_test=30170.0
+Train scores mean=15074.5, std=318.4536421870885
+Test scores mean=37731.2, std=5485.879080775377
 ## La Plata
 
 
 MAX DEPTH 5
 MIN_SAMPLES_split 2
-fold=0, score_train=8304.0 score_test=61586.0
-fold=1, score_train=9603.0 score_test=17840.0
-fold=2, score_train=10637.0 score_test=22526.0
-fold=3, score_train=10649.0 score_test=26719.0
-fold=4, score_train=10789.0 score_test=12835.0
-fold=5, score_train=9637.0 score_test=35857.0
-fold=6, score_train=10285.0 score_test=22931.0
-fold=7, score_train=10841.0 score_test=8050.0
-fold=8, score_train=10949.0 score_test=10057.0
-fold=9, score_train=10897.0 score_test=7219.0
-Train scores mean=10259.1, std=845.7523212435714
-Test scores mean=22562.0, std=16453.099464842482
+fold=0, score_train=8370.0 score_test=61248.0
+fold=1, score_train=9855.0 score_test=17867.0
+fold=2, score_train=10750.0 score_test=22145.0
+fold=3, score_train=10669.0 score_test=27359.0
+fold=4, score_train=10876.0 score_test=13133.0
+fold=5, score_train=9675.0 score_test=35700.0
+fold=6, score_train=10382.0 score_test=23811.0
+fold=7, score_train=10817.0 score_test=7479.0
+fold=8, score_train=10940.0 score_test=9473.0
+fold=9, score_train=10795.0 score_test=7207.0
+Train scores mean=10312.9, std=810.4155929727249
+Test scores mean=22542.2, std=16463.76060591531
 
 MAX DEPTH 7
 MIN_SAMPLES_split 2
-fold=0, score_train=8020.0 score_test=61693.0
-fold=1, score_train=9431.0 score_test=18511.0
-fold=2, score_train=10436.0 score_test=22403.0
-fold=3, score_train=10287.0 score_test=26544.0
-fold=4, score_train=10476.0 score_test=12240.0
-fold=5, score_train=9227.0 score_test=36158.0
-fold=6, score_train=10067.0 score_test=23224.0
-fold=7, score_train=10541.0 score_test=8037.0
-fold=8, score_train=10591.0 score_test=10142.0
-fold=9, score_train=10584.0 score_test=7371.0
-Train scores mean=9966.0, std=837.7667402750667
-Test scores mean=22632.3, std=16503.567278015988
+fold=0, score_train=8034.0 score_test=61092.0
+fold=1, score_train=9568.0 score_test=17873.0
+fold=2, score_train=10619.0 score_test=22173.0
+fold=3, score_train=10307.0 score_test=27488.0
+fold=4, score_train=10693.0 score_test=12673.0
+fold=5, score_train=9264.0 score_test=35510.0
+fold=6, score_train=10228.0 score_test=24037.0
+fold=7, score_train=10524.0 score_test=6545.0
+fold=8, score_train=10532.0 score_test=9727.0
+fold=9, score_train=10383.0 score_test=7239.0
+Train scores mean=10015.2, std=836.9984468324897
+Test scores mean=22435.7, std=16514.301526252933
 
 MAX DEPTH 10
 MIN_SAMPLES_split 2
-fold=0, score_train=7987.0 score_test=61472.0
-fold=1, score_train=9348.0 score_test=18175.0
-fold=2, score_train=10442.0 score_test=22356.0
-fold=3, score_train=10234.0 score_test=26622.0
-fold=4, score_train=10427.0 score_test=12558.0
-fold=5, score_train=9167.0 score_test=35823.0
-fold=6, score_train=10060.0 score_test=23238.0
-fold=7, score_train=10559.0 score_test=7767.0
-fold=8, score_train=10508.0 score_test=10144.0
-fold=9, score_train=10511.0 score_test=7430.0
-Train scores mean=9924.3, std=842.0591230232392
-Test scores mean=22558.5, std=16425.681343892895
+fold=0, score_train=8024.0 score_test=60839.0
+fold=1, score_train=9592.0 score_test=17925.0
+fold=2, score_train=10627.0 score_test=22054.0
+fold=3, score_train=10316.0 score_test=27415.0
+fold=4, score_train=10610.0 score_test=12932.0
+fold=5, score_train=9235.0 score_test=35355.0
+fold=6, score_train=10211.0 score_test=23729.0
+fold=7, score_train=10496.0 score_test=6578.0
+fold=8, score_train=10569.0 score_test=9755.0
+fold=9, score_train=10290.0 score_test=7294.0
+Train scores mean=9997.0, std=831.3080723240399
+Test scores mean=22387.6, std=16399.576499951996
 
-MAX DEPTH None
+MAX DEPTH 30
 MIN_SAMPLES_split 2
-fold=0, score_train=7987.0 score_test=61483.0
-fold=1, score_train=9348.0 score_test=18176.0
-fold=2, score_train=10442.0 score_test=22356.0
-fold=3, score_train=10234.0 score_test=26630.0
-fold=4, score_train=10427.0 score_test=12557.0
-fold=5, score_train=9167.0 score_test=35822.0
-fold=6, score_train=10060.0 score_test=23261.0
-fold=7, score_train=10557.0 score_test=7776.0
-fold=8, score_train=10505.0 score_test=10155.0
-fold=9, score_train=10505.0 score_test=7447.0
-Train scores mean=9923.2, std=841.1980609688646
-Test scores mean=22566.3, std=16425.288795364027
+fold=0, score_train=8022.0 score_test=60846.0
+fold=1, score_train=9592.0 score_test=17925.0
+fold=2, score_train=10627.0 score_test=22054.0
+fold=3, score_train=10314.0 score_test=27381.0
+fold=4, score_train=10609.0 score_test=12936.0
+fold=5, score_train=9236.0 score_test=35352.0
+fold=6, score_train=10211.0 score_test=23729.0
+fold=7, score_train=10497.0 score_test=6587.0
+fold=8, score_train=10562.0 score_test=9755.0
+fold=9, score_train=10301.0 score_test=7295.0
+Train scores mean=9997.1, std=831.5407987585456
+Test scores mean=22386.0, std=16398.660236603344
 ## Puerto Madero y Catalinas
 
 
 MAX DEPTH 5
 MIN_SAMPLES_split 2
-fold=0, score_train=164101.0 score_test=257465.0
-fold=1, score_train=165322.0 score_test=192721.0
-fold=2, score_train=165221.0 score_test=189813.0
-fold=3, score_train=162731.0 score_test=272200.0
-fold=4, score_train=162736.0 score_test=303146.0
-fold=5, score_train=162539.0 score_test=231092.0
-fold=6, score_train=165477.0 score_test=197021.0
-fold=7, score_train=161802.0 score_test=237756.0
-fold=8, score_train=167081.0 score_test=158709.0
-fold=9, score_train=165706.0 score_test=202498.0
-Train scores mean=164271.6, std=1740.6693603962308
-Test scores mean=224242.1, std=44154.29682488444
+fold=0, score_train=164702.0 score_test=255038.0
+fold=1, score_train=165305.0 score_test=194599.0
+fold=2, score_train=165410.0 score_test=191545.0
+fold=3, score_train=163011.0 score_test=274470.0
+fold=4, score_train=163089.0 score_test=303244.0
+fold=5, score_train=162990.0 score_test=232337.0
+fold=6, score_train=165577.0 score_test=196689.0
+fold=7, score_train=162273.0 score_test=239351.0
+fold=8, score_train=167468.0 score_test=159331.0
+fold=9, score_train=165718.0 score_test=202407.0
+Train scores mean=164554.3, std=1646.1265004718064
+Test scores mean=224901.1, std=43968.67899728927
 
 MAX DEPTH 7
 MIN_SAMPLES_split 2
-fold=0, score_train=119238.0 score_test=248100.0
-fold=1, score_train=119425.0 score_test=178062.0
-fold=2, score_train=119509.0 score_test=174148.0
-fold=3, score_train=118145.0 score_test=260605.0
-fold=4, score_train=118221.0 score_test=286507.0
-fold=5, score_train=117407.0 score_test=218023.0
-fold=6, score_train=119248.0 score_test=171809.0
-fold=7, score_train=117286.0 score_test=219318.0
-fold=8, score_train=121936.0 score_test=143467.0
-fold=9, score_train=122192.0 score_test=181111.0
-Train scores mean=119260.7, std=1683.2666686469431
-Test scores mean=208115.0, std=45954.841500470146
+fold=0, score_train=119475.0 score_test=244667.0
+fold=1, score_train=119439.0 score_test=178790.0
+fold=2, score_train=119798.0 score_test=173420.0
+fold=3, score_train=118343.0 score_test=259932.0
+fold=4, score_train=117591.0 score_test=280523.0
+fold=5, score_train=117941.0 score_test=219419.0
+fold=6, score_train=119349.0 score_test=170664.0
+fold=7, score_train=117406.0 score_test=218640.0
+fold=8, score_train=122217.0 score_test=144259.0
+fold=9, score_train=122212.0 score_test=180671.0
+Train scores mean=119377.1, std=1715.94440793142
+Test scores mean=207098.5, std=44458.757290699585
 
 MAX DEPTH 10
 MIN_SAMPLES_split 2
-fold=0, score_train=88603.0 score_test=244009.0
-fold=1, score_train=89730.0 score_test=172514.0
-fold=2, score_train=90467.0 score_test=164775.0
-fold=3, score_train=89461.0 score_test=261144.0
-fold=4, score_train=89692.0 score_test=276926.0
-fold=5, score_train=89757.0 score_test=211209.0
-fold=6, score_train=88170.0 score_test=161847.0
-fold=7, score_train=89427.0 score_test=213710.0
-fold=8, score_train=93104.0 score_test=139682.0
-fold=9, score_train=93309.0 score_test=167438.0
-Train scores mean=90172.0, std=1720.8756814805395
-Test scores mean=201325.4, std=47186.987872599886
+fold=0, score_train=88346.0 score_test=240558.0
+fold=1, score_train=89166.0 score_test=174170.0
+fold=2, score_train=90723.0 score_test=164293.0
+fold=3, score_train=89690.0 score_test=257403.0
+fold=4, score_train=89406.0 score_test=272544.0
+fold=5, score_train=89970.0 score_test=215167.0
+fold=6, score_train=88373.0 score_test=162740.0
+fold=7, score_train=89572.0 score_test=215008.0
+fold=8, score_train=93405.0 score_test=140606.0
+fold=9, score_train=93450.0 score_test=168946.0
+Train scores mean=90210.1, std=1834.5224900956289
+Test scores mean=201143.5, std=45298.23916187766
 
-MAX DEPTH None
+MAX DEPTH 30
 MIN_SAMPLES_split 2
-fold=0, score_train=77879.0 score_test=243817.0
-fold=1, score_train=79483.0 score_test=174151.0
-fold=2, score_train=80345.0 score_test=162628.0
-fold=3, score_train=79037.0 score_test=260285.0
-fold=4, score_train=79605.0 score_test=271359.0
-fold=5, score_train=80685.0 score_test=210270.0
-fold=6, score_train=78440.0 score_test=159286.0
-fold=7, score_train=79819.0 score_test=215575.0
-fold=8, score_train=83839.0 score_test=139107.0
-fold=9, score_train=83443.0 score_test=165756.0
-Train scores mean=80257.5, std=1967.3174770624987
-Test scores mean=200223.4, std=46663.03320426375
+fold=0, score_train=77785.0 score_test=237832.0
+fold=1, score_train=79310.0 score_test=173919.0
+fold=2, score_train=80154.0 score_test=161232.0
+fold=3, score_train=78752.0 score_test=258660.0
+fold=4, score_train=79297.0 score_test=273722.0
+fold=5, score_train=80745.0 score_test=212645.0
+fold=6, score_train=78520.0 score_test=160660.0
+fold=7, score_train=80326.0 score_test=215553.0
+fold=8, score_train=83933.0 score_test=140003.0
+fold=9, score_train=83410.0 score_test=166319.0
+Train scores mean=80223.2, std=2025.0613598385387
+Test scores mean=200054.5, std=46156.51271549396
 ## Corredor Norte
 
 
 MAX DEPTH 5
 MIN_SAMPLES_split 2
-fold=0, score_train=116250.0 score_test=128586.0
-fold=1, score_train=117720.0 score_test=109598.0
-fold=2, score_train=115791.0 score_test=126474.0
-fold=3, score_train=114815.0 score_test=159264.0
-fold=4, score_train=110351.0 score_test=212125.0
-fold=5, score_train=118056.0 score_test=112231.0
-fold=6, score_train=117676.0 score_test=120536.0
-fold=7, score_train=115577.0 score_test=141691.0
-fold=8, score_train=115117.0 score_test=135702.0
-fold=9, score_train=116693.0 score_test=116595.0
-Train scores mean=115804.6, std=2222.9403550752822
-Test scores mean=136280.2, std=30534.775882226117
+fold=0, score_train=116210.0 score_test=128833.0
+fold=1, score_train=117682.0 score_test=109199.0
+fold=2, score_train=115697.0 score_test=126493.0
+fold=3, score_train=114788.0 score_test=159341.0
+fold=4, score_train=110355.0 score_test=212189.0
+fold=5, score_train=117904.0 score_test=112118.0
+fold=6, score_train=117683.0 score_test=120670.0
+fold=7, score_train=115455.0 score_test=141559.0
+fold=8, score_train=115048.0 score_test=135694.0
+fold=9, score_train=116778.0 score_test=116501.0
+Train scores mean=115760.0, std=2210.8399610404485
+Test scores mean=136259.7, std=30596.840871966575
 
 MAX DEPTH 7
 MIN_SAMPLES_split 2
-fold=0, score_train=85822.0 score_test=117367.0
-fold=1, score_train=86968.0 score_test=100949.0
-fold=2, score_train=85590.0 score_test=110239.0
-fold=3, score_train=85331.0 score_test=149825.0
-fold=4, score_train=81195.0 score_test=206163.0
-fold=5, score_train=87164.0 score_test=101412.0
-fold=6, score_train=87187.0 score_test=102039.0
-fold=7, score_train=85903.0 score_test=121375.0
-fold=8, score_train=85533.0 score_test=119695.0
-fold=9, score_train=86288.0 score_test=101212.0
-Train scores mean=85698.1, std=1726.7588424560045
-Test scores mean=123027.6, std=32846.7212069096
+fold=0, score_train=85979.0 score_test=116128.0
+fold=1, score_train=86908.0 score_test=101202.0
+fold=2, score_train=85736.0 score_test=110406.0
+fold=3, score_train=85473.0 score_test=149207.0
+fold=4, score_train=81065.0 score_test=205927.0
+fold=5, score_train=87290.0 score_test=101596.0
+fold=6, score_train=87169.0 score_test=102468.0
+fold=7, score_train=85914.0 score_test=121713.0
+fold=8, score_train=85451.0 score_test=120639.0
+fold=9, score_train=86235.0 score_test=100631.0
+Train scores mean=85722.0, std=1768.5021282932564
+Test scores mean=122991.7, std=32714.211325932614
 
 MAX DEPTH 10
 MIN_SAMPLES_split 2
-fold=0, score_train=58046.0 score_test=106739.0
-fold=1, score_train=58632.0 score_test=91355.0
-fold=2, score_train=57680.0 score_test=98395.0
-fold=3, score_train=56312.0 score_test=145090.0
-fold=4, score_train=52762.0 score_test=202877.0
-fold=5, score_train=58499.0 score_test=90886.0
-fold=6, score_train=58491.0 score_test=90692.0
-fold=7, score_train=57502.0 score_test=102724.0
-fold=8, score_train=57825.0 score_test=109548.0
-fold=9, score_train=57750.0 score_test=89361.0
-Train scores mean=57349.9, std=1744.669306455779
-Test scores mean=112766.7, std=35732.185572518356
+fold=0, score_train=58014.0 score_test=108962.0
+fold=1, score_train=58693.0 score_test=91122.0
+fold=2, score_train=57820.0 score_test=99091.0
+fold=3, score_train=56012.0 score_test=143981.0
+fold=4, score_train=52731.0 score_test=202491.0
+fold=5, score_train=58424.0 score_test=90935.0
+fold=6, score_train=58641.0 score_test=91101.0
+fold=7, score_train=57457.0 score_test=102516.0
+fold=8, score_train=57772.0 score_test=110137.0
+fold=9, score_train=57841.0 score_test=89486.0
+Train scores mean=57340.5, std=1790.118509422708
+Test scores mean=112982.2, std=35424.91359606808
 
-MAX DEPTH None
+MAX DEPTH 30
 MIN_SAMPLES_split 2
-fold=0, score_train=43342.0 score_test=104419.0
-fold=1, score_train=43273.0 score_test=87873.0
-fold=2, score_train=43050.0 score_test=95599.0
-fold=3, score_train=40555.0 score_test=140913.0
-fold=4, score_train=35909.0 score_test=200819.0
-fold=5, score_train=43259.0 score_test=89391.0
-fold=6, score_train=43310.0 score_test=87143.0
-fold=7, score_train=42976.0 score_test=98314.0
-fold=8, score_train=43177.0 score_test=105993.0
-fold=9, score_train=43009.0 score_test=84077.0
-Train scores mean=42186.0, std=2357.576580587221
-Test scores mean=109454.1, std=36056.52762122276
+fold=0, score_train=43387.0 score_test=105456.0
+fold=1, score_train=43157.0 score_test=88013.0
+fold=2, score_train=43087.0 score_test=95227.0
+fold=3, score_train=40839.0 score_test=143235.0
+fold=4, score_train=35901.0 score_test=200913.0
+fold=5, score_train=43505.0 score_test=88226.0
+fold=6, score_train=43177.0 score_test=86247.0
+fold=7, score_train=43008.0 score_test=98454.0
+fold=8, score_train=43030.0 score_test=105692.0
+fold=9, score_train=42894.0 score_test=84385.0
+Train scores mean=42198.5, std=2336.24200848761
+Test scores mean=109584.8, std=36418.313170406145
 ## Corredor Sur
 
 
 MAX DEPTH 5
 MIN_SAMPLES_split 2
-fold=0, score_train=26135.0 score_test=26989.0
-fold=1, score_train=25609.0 score_test=38057.0
-fold=2, score_train=26340.0 score_test=28680.0
-fold=3, score_train=26198.0 score_test=34814.0
-fold=4, score_train=26004.0 score_test=30397.0
-fold=5, score_train=25478.0 score_test=38273.0
-fold=6, score_train=26420.0 score_test=26242.0
-fold=7, score_train=25902.0 score_test=35255.0
-fold=8, score_train=26616.0 score_test=24958.0
-fold=9, score_train=25557.0 score_test=32508.0
-Train scores mean=26025.9, std=387.7872985141325
-Test scores mean=31617.3, std=4885.253639497362
+fold=0, score_train=26138.0 score_test=26963.0
+fold=1, score_train=25608.0 score_test=37993.0
+fold=2, score_train=26347.0 score_test=28734.0
+fold=3, score_train=26188.0 score_test=34857.0
+fold=4, score_train=25982.0 score_test=30613.0
+fold=5, score_train=25464.0 score_test=38232.0
+fold=6, score_train=26436.0 score_test=26199.0
+fold=7, score_train=25888.0 score_test=35226.0
+fold=8, score_train=26631.0 score_test=24979.0
+fold=9, score_train=25561.0 score_test=32406.0
+Train scores mean=26024.3, std=394.9258861553083
+Test scores mean=31620.2, std=4864.310954972622
 
 MAX DEPTH 7
 MIN_SAMPLES_split 2
-fold=0, score_train=20856.0 score_test=25894.0
-fold=1, score_train=20585.0 score_test=36243.0
-fold=2, score_train=21133.0 score_test=25522.0
-fold=3, score_train=21004.0 score_test=31125.0
-fold=4, score_train=20723.0 score_test=29017.0
-fold=5, score_train=20558.0 score_test=36204.0
-fold=6, score_train=21348.0 score_test=24615.0
-fold=7, score_train=20990.0 score_test=32813.0
-fold=8, score_train=21536.0 score_test=22374.0
-fold=9, score_train=20562.0 score_test=29612.0
-Train scores mean=20929.5, std=338.85436071825575
-Test scores mean=29341.9, std=4801.561747089286
+fold=0, score_train=20858.0 score_test=25809.0
+fold=1, score_train=20572.0 score_test=36453.0
+fold=2, score_train=21137.0 score_test=25526.0
+fold=3, score_train=21033.0 score_test=31099.0
+fold=4, score_train=20728.0 score_test=28806.0
+fold=5, score_train=20565.0 score_test=36277.0
+fold=6, score_train=21348.0 score_test=24538.0
+fold=7, score_train=20988.0 score_test=32801.0
+fold=8, score_train=21551.0 score_test=22258.0
+fold=9, score_train=20570.0 score_test=29518.0
+Train scores mean=20935.0, std=342.20104552083933
+Test scores mean=29308.5, std=4879.944700278659
 
 MAX DEPTH 10
 MIN_SAMPLES_split 2
-fold=0, score_train=14808.0 score_test=24979.0
-fold=1, score_train=14635.0 score_test=34633.0
-fold=2, score_train=15106.0 score_test=23384.0
-fold=3, score_train=14902.0 score_test=28643.0
-fold=4, score_train=14784.0 score_test=27051.0
-fold=5, score_train=14688.0 score_test=34512.0
-fold=6, score_train=15435.0 score_test=23021.0
-fold=7, score_train=15303.0 score_test=30516.0
-fold=8, score_train=15596.0 score_test=19145.0
-fold=9, score_train=14771.0 score_test=27597.0
-Train scores mean=15002.8, std=337.23410925415664
-Test scores mean=27348.1, std=4984.366391249967
+fold=0, score_train=14819.0 score_test=25086.0
+fold=1, score_train=14643.0 score_test=34334.0
+fold=2, score_train=15123.0 score_test=23350.0
+fold=3, score_train=14926.0 score_test=28524.0
+fold=4, score_train=14761.0 score_test=27159.0
+fold=5, score_train=14675.0 score_test=34395.0
+fold=6, score_train=15429.0 score_test=23077.0
+fold=7, score_train=15303.0 score_test=30599.0
+fold=8, score_train=15590.0 score_test=19185.0
+fold=9, score_train=14760.0 score_test=27429.0
+Train scores mean=15002.9, std=337.4787071472477
+Test scores mean=27313.8, std=4903.78114429173
 
-MAX DEPTH None
+MAX DEPTH 30
 MIN_SAMPLES_split 2
-fold=0, score_train=10155.0 score_test=24143.0
-fold=1, score_train=9466.0 score_test=33506.0
-fold=2, score_train=10272.0 score_test=22830.0
-fold=3, score_train=10164.0 score_test=27592.0
-fold=4, score_train=9955.0 score_test=26285.0
-fold=5, score_train=9774.0 score_test=33284.0
-fold=6, score_train=10200.0 score_test=21819.0
-fold=7, score_train=9710.0 score_test=29610.0
-fold=8, score_train=10212.0 score_test=17196.0
-fold=9, score_train=10067.0 score_test=26560.0
-Train scores mean=9997.5, std=265.9641788746079
-Test scores mean=26282.5, std=5088.6425225419625
+fold=0, score_train=10141.0 score_test=24254.0
+fold=1, score_train=9468.0 score_test=33464.0
+fold=2, score_train=10273.0 score_test=22669.0
+fold=3, score_train=10150.0 score_test=27732.0
+fold=4, score_train=9963.0 score_test=25995.0
+fold=5, score_train=9765.0 score_test=33386.0
+fold=6, score_train=10160.0 score_test=21758.0
+fold=7, score_train=9721.0 score_test=29700.0
+fold=8, score_train=10231.0 score_test=17079.0
+fold=9, score_train=10123.0 score_test=26511.0
+Train scores mean=9999.5, std=264.2508278132729
+Test scores mean=26254.8, std=5145.536508038355
 ## Caballito
 
 
 MAX DEPTH 5
 MIN_SAMPLES_split 2
-fold=0, score_train=47029.0 score_test=53793.0
-fold=1, score_train=47518.0 score_test=44978.0
-fold=2, score_train=47364.0 score_test=49296.0
-fold=3, score_train=47149.0 score_test=48767.0
-fold=4, score_train=47058.0 score_test=48314.0
-fold=5, score_train=47087.0 score_test=48593.0
-fold=6, score_train=46841.0 score_test=53677.0
-fold=7, score_train=47826.0 score_test=45133.0
-fold=8, score_train=47308.0 score_test=46774.0
-fold=9, score_train=47000.0 score_test=48850.0
-Train scores mean=47218.0, std=290.97078891187687
-Test scores mean=48817.5, std=3007.3985528286
+fold=0, score_train=47030.0 score_test=53789.0
+fold=1, score_train=47518.0 score_test=44981.0
+fold=2, score_train=47365.0 score_test=49299.0
+fold=3, score_train=47152.0 score_test=48777.0
+fold=4, score_train=47057.0 score_test=48312.0
+fold=5, score_train=47085.0 score_test=48595.0
+fold=6, score_train=46844.0 score_test=53681.0
+fold=7, score_train=47826.0 score_test=45158.0
+fold=8, score_train=47305.0 score_test=46765.0
+fold=9, score_train=47002.0 score_test=48850.0
+Train scores mean=47218.4, std=290.3412551540763
+Test scores mean=48820.7, std=3004.2996244271862
 
 MAX DEPTH 7
 MIN_SAMPLES_split 2
-fold=0, score_train=36800.0 score_test=44994.0
-fold=1, score_train=36808.0 score_test=37870.0
-fold=2, score_train=36895.0 score_test=40346.0
-fold=3, score_train=36640.0 score_test=41100.0
-fold=4, score_train=36380.0 score_test=42413.0
-fold=5, score_train=37034.0 score_test=38207.0
-fold=6, score_train=36146.0 score_test=47151.0
-fold=7, score_train=37185.0 score_test=37989.0
-fold=8, score_train=36639.0 score_test=38398.0
-fold=9, score_train=36555.0 score_test=40062.0
-Train scores mean=36708.2, std=306.13352206730536
-Test scores mean=40853.0, std=3167.8795922684803
+fold=0, score_train=36802.0 score_test=45016.0
+fold=1, score_train=36809.0 score_test=37876.0
+fold=2, score_train=36892.0 score_test=40288.0
+fold=3, score_train=36651.0 score_test=41078.0
+fold=4, score_train=36381.0 score_test=42440.0
+fold=5, score_train=37039.0 score_test=38209.0
+fold=6, score_train=36138.0 score_test=47144.0
+fold=7, score_train=37187.0 score_test=37973.0
+fold=8, score_train=36639.0 score_test=38408.0
+fold=9, score_train=36551.0 score_test=40070.0
+Train scores mean=36708.9, std=308.46842085806236
+Test scores mean=40850.2, std=3171.651683271667
 
 MAX DEPTH 10
 MIN_SAMPLES_split 2
-fold=0, score_train=24482.0 score_test=34911.0
-fold=1, score_train=24319.0 score_test=31260.0
-fold=2, score_train=24270.0 score_test=33350.0
-fold=3, score_train=23992.0 score_test=31947.0
-fold=4, score_train=23755.0 score_test=35186.0
-fold=5, score_train=24188.0 score_test=28211.0
-fold=6, score_train=23677.0 score_test=41148.0
-fold=7, score_train=24276.0 score_test=30997.0
-fold=8, score_train=23778.0 score_test=32228.0
-fold=9, score_train=23759.0 score_test=32816.0
-Train scores mean=24049.6, std=291.6783616702937
-Test scores mean=33205.4, std=3435.6595420514077
+fold=0, score_train=24482.0 score_test=34807.0
+fold=1, score_train=24334.0 score_test=31258.0
+fold=2, score_train=24285.0 score_test=33355.0
+fold=3, score_train=23982.0 score_test=31845.0
+fold=4, score_train=23752.0 score_test=35209.0
+fold=5, score_train=24188.0 score_test=28234.0
+fold=6, score_train=23680.0 score_test=41196.0
+fold=7, score_train=24275.0 score_test=30893.0
+fold=8, score_train=23793.0 score_test=32207.0
+fold=9, score_train=23763.0 score_test=32827.0
+Train scores mean=24053.4, std=292.6515561778774
+Test scores mean=33183.1, std=3452.7233518549447
 
-MAX DEPTH None
+MAX DEPTH 30
 MIN_SAMPLES_split 2
-fold=0, score_train=11717.0 score_test=29660.0
-fold=1, score_train=11830.0 score_test=25977.0
-fold=2, score_train=11688.0 score_test=28895.0
-fold=3, score_train=11424.0 score_test=27530.0
-fold=4, score_train=11202.0 score_test=31988.0
-fold=5, score_train=11673.0 score_test=23084.0
-fold=6, score_train=11133.0 score_test=37216.0
-fold=7, score_train=11276.0 score_test=27073.0
-fold=8, score_train=11539.0 score_test=28011.0
-fold=9, score_train=11499.0 score_test=28011.0
-Train scores mean=11498.1, std=236.21856639796778
-Test scores mean=28744.5, std=3774.073521335328
+fold=0, score_train=11725.0 score_test=29764.0
+fold=1, score_train=11856.0 score_test=26361.0
+fold=2, score_train=11740.0 score_test=28920.0
+fold=3, score_train=11439.0 score_test=27606.0
+fold=4, score_train=11218.0 score_test=32104.0
+fold=5, score_train=11653.0 score_test=23196.0
+fold=6, score_train=11132.0 score_test=37267.0
+fold=7, score_train=11270.0 score_test=27154.0
+fold=8, score_train=11521.0 score_test=28114.0
+fold=9, score_train=11504.0 score_test=28054.0
+Train scores mean=11505.8, std=242.6839737418009
+Test scores mean=28854.0, std=3742.2014020270653
 ## Palermo
 
 
 MAX DEPTH 5
 MIN_SAMPLES_split 2
-fold=0, score_train=148235.0 score_test=140443.0
-fold=1, score_train=144690.0 score_test=177553.0
-fold=2, score_train=150404.0 score_test=145397.0
-fold=3, score_train=148680.0 score_test=177305.0
-fold=4, score_train=149943.0 score_test=160582.0
-fold=5, score_train=147544.0 score_test=181369.0
-fold=6, score_train=142475.0 score_test=226059.0
-fold=7, score_train=149942.0 score_test=139836.0
-fold=8, score_train=147403.0 score_test=153021.0
-fold=9, score_train=149346.0 score_test=159779.0
-Train scores mean=147866.2, std=2528.113385291271
-Test scores mean=166134.4, std=26040.764202816066
+fold=0, score_train=148224.0 score_test=140234.0
+fold=1, score_train=144677.0 score_test=177720.0
+fold=2, score_train=150415.0 score_test=145332.0
+fold=3, score_train=148676.0 score_test=177170.0
+fold=4, score_train=149962.0 score_test=160564.0
+fold=5, score_train=147531.0 score_test=181480.0
+fold=6, score_train=142490.0 score_test=226154.0
+fold=7, score_train=149919.0 score_test=139952.0
+fold=8, score_train=147422.0 score_test=153299.0
+fold=9, score_train=149347.0 score_test=159782.0
+Train scores mean=147866.3, std=2526.8229525103916
+Test scores mean=166168.7, std=26074.80078564573
 
 MAX DEPTH 7
 MIN_SAMPLES_split 2
-fold=0, score_train=105058.0 score_test=137794.0
-fold=1, score_train=103041.0 score_test=158503.0
-fold=2, score_train=106576.0 score_test=121652.0
-fold=3, score_train=105020.0 score_test=160901.0
-fold=4, score_train=105424.0 score_test=131927.0
-fold=5, score_train=104364.0 score_test=160674.0
-fold=6, score_train=102569.0 score_test=208306.0
-fold=7, score_train=106485.0 score_test=114948.0
-fold=8, score_train=104690.0 score_test=141472.0
-fold=9, score_train=105441.0 score_test=136018.0
-Train scores mean=104866.8, std=1296.9039028907782
-Test scores mean=147219.5, std=26673.831538503135
+fold=0, score_train=104967.0 score_test=138288.0
+fold=1, score_train=103150.0 score_test=158310.0
+fold=2, score_train=106505.0 score_test=121572.0
+fold=3, score_train=105113.0 score_test=161011.0
+fold=4, score_train=105453.0 score_test=132077.0
+fold=5, score_train=104267.0 score_test=160289.0
+fold=6, score_train=102541.0 score_test=208699.0
+fold=7, score_train=106557.0 score_test=114784.0
+fold=8, score_train=104677.0 score_test=141852.0
+fold=9, score_train=105394.0 score_test=136062.0
+Train scores mean=104862.4, std=1290.3504433550859
+Test scores mean=147294.4, std=26741.378860817516
 
 MAX DEPTH 10
 MIN_SAMPLES_split 2
-fold=0, score_train=68150.0 score_test=134311.0
-fold=1, score_train=67980.0 score_test=146561.0
-fold=2, score_train=69242.0 score_test=110351.0
-fold=3, score_train=67039.0 score_test=150450.0
-fold=4, score_train=68038.0 score_test=122633.0
-fold=5, score_train=68077.0 score_test=150348.0
-fold=6, score_train=65307.0 score_test=202430.0
-fold=7, score_train=69269.0 score_test=98474.0
-fold=8, score_train=68787.0 score_test=132630.0
-fold=9, score_train=67978.0 score_test=126190.0
-Train scores mean=67986.7, std=1153.5959286798245
-Test scores mean=137437.8, std=28428.602231633628
+fold=0, score_train=68322.0 score_test=134931.0
+fold=1, score_train=67898.0 score_test=146125.0
+fold=2, score_train=69191.0 score_test=109005.0
+fold=3, score_train=67175.0 score_test=151176.0
+fold=4, score_train=68019.0 score_test=123627.0
+fold=5, score_train=67873.0 score_test=151269.0
+fold=6, score_train=65349.0 score_test=202468.0
+fold=7, score_train=69242.0 score_test=97942.0
+fold=8, score_train=68796.0 score_test=132341.0
+fold=9, score_train=67737.0 score_test=126504.0
+Train scores mean=67960.2, std=1129.7489199916156
+Test scores mean=137538.8, std=28665.159858848394
 
-MAX DEPTH None
+MAX DEPTH 30
 MIN_SAMPLES_split 2
-fold=0, score_train=51591.0 score_test=130900.0
-fold=1, score_train=51429.0 score_test=142112.0
-fold=2, score_train=52014.0 score_test=104345.0
-fold=3, score_train=51154.0 score_test=149717.0
-fold=4, score_train=50264.0 score_test=118970.0
-fold=5, score_train=51155.0 score_test=147627.0
-fold=6, score_train=48157.0 score_test=199597.0
-fold=7, score_train=52237.0 score_test=93672.0
-fold=8, score_train=51875.0 score_test=130446.0
-fold=9, score_train=50808.0 score_test=122551.0
-Train scores mean=51068.4, std=1179.4290709208983
-Test scores mean=133993.7, std=29224.18671066827
+fold=0, score_train=51653.0 score_test=131788.0
+fold=1, score_train=51478.0 score_test=142225.0
+fold=2, score_train=52024.0 score_test=104317.0
+fold=3, score_train=51033.0 score_test=149171.0
+fold=4, score_train=50288.0 score_test=119328.0
+fold=5, score_train=51265.0 score_test=147932.0
+fold=6, score_train=48040.0 score_test=199494.0
+fold=7, score_train=52324.0 score_test=93530.0
+fold=8, score_train=52010.0 score_test=129430.0
+fold=9, score_train=50688.0 score_test=122728.0
+Train scores mean=51080.3, std=1240.486736907914
+Test scores mean=133994.3, std=29189.760385183785
 ## Belgrano
 
 
 MAX DEPTH 5
 MIN_SAMPLES_split 2
-fold=0, score_train=152132.0 score_test=138419.0
-fold=1, score_train=149476.0 score_test=137251.0
-fold=2, score_train=133428.0 score_test=393720.0
-fold=3, score_train=145539.0 score_test=186405.0
-fold=4, score_train=148304.0 score_test=168939.0
-fold=5, score_train=150298.0 score_test=137218.0
-fold=6, score_train=152269.0 score_test=136232.0
-fold=7, score_train=148922.0 score_test=166238.0
-fold=8, score_train=146704.0 score_test=164986.0
-fold=9, score_train=139042.0 score_test=240818.0
-Train scores mean=146611.4, std=6006.872456704163
-Test scores mean=187022.6, std=79416.2556214616
+fold=0, score_train=152146.0 score_test=138557.0
+fold=1, score_train=149588.0 score_test=138751.0
+fold=2, score_train=133345.0 score_test=393705.0
+fold=3, score_train=145760.0 score_test=180673.0
+fold=4, score_train=148063.0 score_test=169393.0
+fold=5, score_train=150288.0 score_test=137311.0
+fold=6, score_train=152438.0 score_test=134949.0
+fold=7, score_train=148941.0 score_test=165205.0
+fold=8, score_train=146786.0 score_test=164932.0
+fold=9, score_train=139087.0 score_test=241450.0
+Train scores mean=146644.2, std=6035.555314596624
+Test scores mean=186492.6, std=79480.42007410098
 
 MAX DEPTH 7
 MIN_SAMPLES_split 2
-fold=0, score_train=105436.0 score_test=115536.0
-fold=1, score_train=108551.0 score_test=126709.0
-fold=2, score_train=94882.0 score_test=389033.0
-fold=3, score_train=104259.0 score_test=174244.0
-fold=4, score_train=106227.0 score_test=152337.0
-fold=5, score_train=108605.0 score_test=113747.0
-fold=6, score_train=105942.0 score_test=127146.0
-fold=7, score_train=108949.0 score_test=156622.0
-fold=8, score_train=105988.0 score_test=142944.0
-fold=9, score_train=102143.0 score_test=216191.0
-Train scores mean=105098.2, std=4159.973044784465
-Test scores mean=171450.9, std=82442.10553736078
+fold=0, score_train=105230.0 score_test=115438.0
+fold=1, score_train=108626.0 score_test=127022.0
+fold=2, score_train=94776.0 score_test=388978.0
+fold=3, score_train=104106.0 score_test=171998.0
+fold=4, score_train=106308.0 score_test=150440.0
+fold=5, score_train=108719.0 score_test=114009.0
+fold=6, score_train=105794.0 score_test=126506.0
+fold=7, score_train=108797.0 score_test=153585.0
+fold=8, score_train=105940.0 score_test=143793.0
+fold=9, score_train=102208.0 score_test=215056.0
+Train scores mean=105050.4, std=4186.925687316543
+Test scores mean=170682.5, std=82442.19165269686
 
 MAX DEPTH 10
 MIN_SAMPLES_split 2
-fold=0, score_train=76664.0 score_test=101986.0
-fold=1, score_train=81316.0 score_test=114131.0
-fold=2, score_train=61056.0 score_test=386694.0
-fold=3, score_train=76410.0 score_test=164984.0
-fold=4, score_train=77575.0 score_test=141333.0
-fold=5, score_train=80828.0 score_test=95043.0
-fold=6, score_train=77426.0 score_test=117099.0
-fold=7, score_train=81563.0 score_test=143766.0
-fold=8, score_train=79993.0 score_test=133315.0
-fold=9, score_train=74197.0 score_test=213530.0
-Train scores mean=76702.8, std=6011.269246636317
-Test scores mean=161188.1, std=86358.38816164748
+fold=0, score_train=76907.0 score_test=102191.0
+fold=1, score_train=81304.0 score_test=112681.0
+fold=2, score_train=61113.0 score_test=386294.0
+fold=3, score_train=76076.0 score_test=169408.0
+fold=4, score_train=78040.0 score_test=141072.0
+fold=5, score_train=80717.0 score_test=96322.0
+fold=6, score_train=77675.0 score_test=120143.0
+fold=7, score_train=81674.0 score_test=144909.0
+fold=8, score_train=80012.0 score_test=133314.0
+fold=9, score_train=74222.0 score_test=211383.0
+Train scores mean=76774.0, std=6011.672608813254
+Test scores mean=161771.7, std=85912.67841768176
 
-MAX DEPTH None
+MAX DEPTH 30
 MIN_SAMPLES_split 2
-fold=0, score_train=65617.0 score_test=98785.0
-fold=1, score_train=70811.0 score_test=112545.0
-fold=2, score_train=45916.0 score_test=385781.0
-fold=3, score_train=64657.0 score_test=168412.0
-fold=4, score_train=66910.0 score_test=141938.0
-fold=5, score_train=69587.0 score_test=91827.0
-fold=6, score_train=66709.0 score_test=117060.0
-fold=7, score_train=70806.0 score_test=143996.0
-fold=8, score_train=69677.0 score_test=130139.0
-fold=9, score_train=62776.0 score_test=207137.0
-Train scores mean=65346.6, std=7343.956626596684
-Test scores mean=159762.0, std=86431.63643661451
+fold=0, score_train=65502.0 score_test=98561.0
+fold=1, score_train=70640.0 score_test=111035.0
+fold=2, score_train=45944.0 score_test=385846.0
+fold=3, score_train=65310.0 score_test=158193.0
+fold=4, score_train=66934.0 score_test=139662.0
+fold=5, score_train=69843.0 score_test=90926.0
+fold=6, score_train=66591.0 score_test=116686.0
+fold=7, score_train=71523.0 score_test=144478.0
+fold=8, score_train=69836.0 score_test=129722.0
+fold=9, score_train=62762.0 score_test=205845.0
+Train scores mean=65488.5, std=7405.507503803428
+Test scores mean=158095.4, std=86580.81389237841
 ## devoto
 
 
 MAX DEPTH 5
 MIN_SAMPLES_split 2
-fold=0, score_train=51377.0 score_test=86553.0
-fold=1, score_train=53247.0 score_test=75401.0
-fold=2, score_train=51541.0 score_test=91308.0
-fold=3, score_train=53840.0 score_test=61809.0
-fold=4, score_train=51546.0 score_test=71407.0
-fold=5, score_train=53910.0 score_test=56489.0
-fold=6, score_train=48754.0 score_test=106754.0
-fold=7, score_train=52064.0 score_test=76248.0
-fold=8, score_train=54174.0 score_test=44788.0
-fold=9, score_train=52970.0 score_test=61518.0
-Train scores mean=52342.3, std=1647.548013126038
-Test scores mean=73227.5, std=18263.924521976223
+fold=0, score_train=51397.0 score_test=86476.0
+fold=1, score_train=53182.0 score_test=75543.0
+fold=2, score_train=51538.0 score_test=91230.0
+fold=3, score_train=53917.0 score_test=61894.0
+fold=4, score_train=51573.0 score_test=71400.0
+fold=5, score_train=53955.0 score_test=56657.0
+fold=6, score_train=48760.0 score_test=106933.0
+fold=7, score_train=52099.0 score_test=76395.0
+fold=8, score_train=54213.0 score_test=44615.0
+fold=9, score_train=52973.0 score_test=61853.0
+Train scores mean=52360.7, std=1656.7663987418384
+Test scores mean=73299.6, std=18273.964346395485
 
 MAX DEPTH 7
 MIN_SAMPLES_split 2
-fold=0, score_train=39100.0 score_test=79075.0
-fold=1, score_train=39745.0 score_test=74100.0
-fold=2, score_train=39001.0 score_test=89430.0
-fold=3, score_train=40819.0 score_test=56350.0
-fold=4, score_train=39265.0 score_test=67997.0
-fold=5, score_train=41184.0 score_test=52261.0
-fold=6, score_train=35885.0 score_test=105033.0
-fold=7, score_train=39725.0 score_test=70657.0
-fold=8, score_train=41447.0 score_test=38870.0
-fold=9, score_train=39852.0 score_test=58957.0
-Train scores mean=39602.3, std=1564.4941710057954
-Test scores mean=69273.0, std=19134.55092525328
+fold=0, score_train=39155.0 score_test=78967.0
+fold=1, score_train=39790.0 score_test=74186.0
+fold=2, score_train=38938.0 score_test=89588.0
+fold=3, score_train=40824.0 score_test=56465.0
+fold=4, score_train=39244.0 score_test=67899.0
+fold=5, score_train=41157.0 score_test=51740.0
+fold=6, score_train=35937.0 score_test=104768.0
+fold=7, score_train=39718.0 score_test=70961.0
+fold=8, score_train=41404.0 score_test=38800.0
+fold=9, score_train=39875.0 score_test=58592.0
+Train scores mean=39604.2, std=1544.987867625863
+Test scores mean=69196.6, std=19176.150547547917
 
 MAX DEPTH 10
 MIN_SAMPLES_split 2
-fold=0, score_train=29469.0 score_test=75943.0
-fold=1, score_train=29561.0 score_test=73178.0
-fold=2, score_train=29193.0 score_test=87904.0
-fold=3, score_train=31064.0 score_test=54259.0
-fold=4, score_train=29521.0 score_test=65678.0
-fold=5, score_train=31051.0 score_test=48605.0
-fold=6, score_train=25899.0 score_test=104639.0
-fold=7, score_train=29915.0 score_test=67219.0
-fold=8, score_train=31010.0 score_test=34501.0
-fold=9, score_train=29385.0 score_test=58177.0
-Train scores mean=29606.8, std=1500.731584557641
-Test scores mean=67010.3, std=20023.182370276045
+fold=0, score_train=29528.0 score_test=76385.0
+fold=1, score_train=29628.0 score_test=72915.0
+fold=2, score_train=29222.0 score_test=88424.0
+fold=3, score_train=31011.0 score_test=54248.0
+fold=4, score_train=29565.0 score_test=65726.0
+fold=5, score_train=31026.0 score_test=49701.0
+fold=6, score_train=25833.0 score_test=104495.0
+fold=7, score_train=30155.0 score_test=68016.0
+fold=8, score_train=30940.0 score_test=34346.0
+fold=9, score_train=29427.0 score_test=57969.0
+Train scores mean=29633.5, std=1508.7557235461722
+Test scores mean=67222.5, std=19999.444721458312
 
-MAX DEPTH None
+MAX DEPTH 30
 MIN_SAMPLES_split 2
-fold=0, score_train=26454.0 score_test=76558.0
-fold=1, score_train=26768.0 score_test=72894.0
-fold=2, score_train=25893.0 score_test=87804.0
-fold=3, score_train=27988.0 score_test=54203.0
-fold=4, score_train=26409.0 score_test=65364.0
-fold=5, score_train=27850.0 score_test=48219.0
-fold=6, score_train=22656.0 score_test=103853.0
-fold=7, score_train=27161.0 score_test=66951.0
-fold=8, score_train=27660.0 score_test=33160.0
-fold=9, score_train=26083.0 score_test=58036.0
-Train scores mean=26492.2, std=1535.4858659214171
-Test scores mean=66704.2, std=20168.282611841572
+fold=0, score_train=26430.0 score_test=76511.0
+fold=1, score_train=26727.0 score_test=72713.0
+fold=2, score_train=26044.0 score_test=87988.0
+fold=3, score_train=28004.0 score_test=53479.0
+fold=4, score_train=26298.0 score_test=65306.0
+fold=5, score_train=27936.0 score_test=49533.0
+fold=6, score_train=22726.0 score_test=104167.0
+fold=7, score_train=27186.0 score_test=66684.0
+fold=8, score_train=27668.0 score_test=33526.0
+fold=9, score_train=26003.0 score_test=57693.0
+Train scores mean=26502.2, std=1525.8563205987355
+Test scores mean=66760.0, std=20117.47573628461
 
 ## Resto de CABA
 
 |    | column                  |   feature_importance |
 |---:|:------------------------|---------------------:|
-|  0 | surface_covered         |            40.1242   |
-|  1 | bathrooms               |            28.128    |
-|  2 | lon                     |             7.54167  |
-|  3 | surface_total           |             5.5358   |
-|  5 | surface_covered_imputed |             3.0914   |
-|  6 | desc_suite              |             2.57325  |
-|  7 | desc_pileta|piscina     |             2.2778   |
-|  4 | lat                     |             1.75836  |
-|  8 | covered                 |             0.911446 |
-| 10 | desc_a(mm|m)enities     |             0.704582 |
+|  0 | surface_covered         |            40.2648   |
+|  1 | bathrooms               |            28.208    |
+|  2 | lon                     |             7.70678  |
+|  3 | surface_total           |             5.56586  |
+|  5 | surface_covered_imputed |             3.09678  |
+|  6 | desc_suite              |             2.59301  |
+|  8 | desc_pileta|piscina     |             2.2944   |
+|  4 | lat                     |             1.96645  |
+|  7 | covered                 |             0.939911 |
+| 10 | desc_a(mm|m)enities     |             0.72804  |
 ## La Plata
 
 |    | column          |   feature_importance |
 |---:|:----------------|---------------------:|
-|  0 | surface_covered |             26.0381  |
-|  2 | pasillo         |              7.10041 |
-|  4 | bano dormitorio |              6.43112 |
-|  1 | dormitorio      |              6.03043 |
-|  3 | surface_total   |              5.16196 |
-| 10 | rooms           |              3.61708 |
-|  8 | lon             |              2.8927  |
-| 20 | bathrooms       |              2.12139 |
-| 12 | mts             |              1.96318 |
-|  5 | 25              |              1.58518 |
+|  0 | surface_covered |             26.0115  |
+|  2 | pasillo         |              7.51832 |
+|  4 | bano dormitorio |              6.60272 |
+|  1 | dormitorio      |              6.16413 |
+|  3 | surface_total   |              5.21454 |
+| 17 | efectivo        |              3.87331 |
+| 15 | barrio          |              2.84423 |
+| 25 | lat             |              2.00734 |
+| 18 | consta          |              1.95992 |
+| 24 | calle           |              1.68984 |
 ## Puerto Madero y Catalinas
 
 |    | column          |   feature_importance |
 |---:|:----------------|---------------------:|
-|  0 | surface_covered |            84.8425   |
-|  1 | surface_total   |             1.13123  |
-|  3 | cocheras        |             1.04483  |
-|  2 | diario          |             0.653809 |
-| 10 | humedo          |             0.610408 |
-|  5 | covered         |             0.552106 |
-|  7 | alvear          |             0.534587 |
-|  4 | seco            |             0.526217 |
-| 12 | terraza         |             0.383364 |
-|  9 | lon             |             0.373515 |
+|  0 | surface_covered |            84.8404   |
+|  1 | surface_total   |             1.14714  |
+|  3 | cocheras        |             1.02874  |
+|  2 | diario          |             0.654252 |
+|  4 | humedo          |             0.597274 |
+| 11 | seco            |             0.527545 |
+|  7 | alvear          |             0.52609  |
+|  5 | covered         |             0.507722 |
+| 12 | terraza         |             0.393364 |
+|  9 | lon             |             0.369152 |
 ## Corredor Norte
 
 |    | column                  |   feature_importance |
 |---:|:------------------------|---------------------:|
-|  0 | surface_covered         |            65.446    |
-|  1 | surface_total           |            14.1079   |
-|  2 | lon                     |             7.49858  |
-|  3 | lat                     |             2.79907  |
-|  4 | covered                 |             2.47621  |
-|  5 | surface_covered_imputed |             1.2439   |
-|  6 | desc_pileta|piscina     |             0.809249 |
-|  9 | desc_a(mm|m)enities     |             0.6046   |
-|  8 | desc_suite              |             0.562754 |
-| 11 | desc_estilo franc(é|e)s |             0.50191  |
+|  0 | surface_covered         |            65.437    |
+|  1 | surface_total           |            14.0203   |
+|  2 | lon                     |             7.46087  |
+|  3 | lat                     |             2.80111  |
+|  4 | covered                 |             2.49778  |
+|  5 | surface_covered_imputed |             1.26737  |
+|  6 | desc_pileta|piscina     |             0.831889 |
+|  9 | desc_a(mm|m)enities     |             0.603619 |
+|  7 | desc_suite              |             0.568056 |
+|  8 | bathrooms_rooms         |             0.512601 |
 ## Corredor Sur
 
 |    | column              |   feature_importance |
 |---:|:--------------------|---------------------:|
-|  0 | bathrooms           |             29.0849  |
-|  1 | surface_covered     |             19.9211  |
-|  2 | lon                 |             14.4347  |
-|  3 | surface_total       |              5.42616 |
-|  4 | lat                 |              4.08011 |
-|  5 | covered             |              2.47405 |
-|  6 | desc_a(mm|m)enities |              2.00211 |
-| 10 | desc_baulera        |              1.76796 |
-|  9 | rooms               |              1.59934 |
-|  8 | desc_emprendimiento |              1.55169 |
+|  0 | bathrooms           |             29.0925  |
+|  1 | surface_covered     |             19.9281  |
+|  2 | lon                 |             14.5976  |
+|  3 | surface_total       |              5.48916 |
+|  4 | lat                 |              4.28159 |
+|  5 | covered             |              2.51999 |
+|  6 | desc_a(mm|m)enities |              1.98724 |
+| 10 | desc_baulera        |              1.78452 |
+|  7 | rooms               |              1.66774 |
+|  9 | desc_emprendimiento |              1.53995 |
 ## Caballito
 
 |    | column                  |   feature_importance |
 |---:|:------------------------|---------------------:|
-|  0 | surface_covered         |            63.2647   |
-|  1 | surface_total           |             8.25551  |
-|  2 | lon                     |             6.54794  |
-|  3 | bathrooms               |             5.65898  |
-|  4 | lat                     |             2.8343   |
-|  6 | surface_covered_imputed |             2.3732   |
-|  5 | covered                 |             2.08288  |
-|  7 | desc_pileta|piscina     |             0.814636 |
-|  8 | bathrooms_rooms         |             0.752474 |
-| 10 | desc_patio              |             0.488974 |
+|  0 | surface_covered         |            63.2887   |
+|  1 | surface_total           |             8.23726  |
+|  2 | lon                     |             6.6205   |
+|  3 | bathrooms               |             5.66613  |
+|  4 | lat                     |             2.91783  |
+|  6 | surface_covered_imputed |             2.37242  |
+|  5 | covered                 |             2.09722  |
+|  8 | desc_pileta|piscina     |             0.815762 |
+|  7 | bathrooms_rooms         |             0.751593 |
+|  9 | rooms                   |             0.512588 |
 ## Palermo
 
 |    | column                  |   feature_importance |
 |---:|:------------------------|---------------------:|
-|  0 | surface_covered         |            70.8427   |
-|  1 | lat                     |             5.48895  |
-|  2 | desc_a(mm|m)enities     |             5.37692  |
-|  3 | surface_total           |             4.48452  |
-|  4 | lon                     |             2.62735  |
-|  6 | desc_suite              |             1.83792  |
-|  7 | surface_covered_imputed |             1.8059   |
-|  8 | desc_pileta|piscina     |             1.20125  |
-|  5 | covered                 |             1.17491  |
-|  9 | bathrooms_rooms         |             0.864637 |
+|  0 | surface_covered         |            71.0702   |
+|  1 | lat                     |             5.73916  |
+|  2 | desc_a(mm|m)enities     |             5.38956  |
+|  3 | surface_total           |             4.48546  |
+|  4 | lon                     |             2.61744  |
+|  6 | desc_suite              |             1.86647  |
+|  7 | surface_covered_imputed |             1.80265  |
+|  8 | desc_pileta|piscina     |             1.20531  |
+|  5 | covered                 |             1.19862  |
+|  9 | bathrooms_rooms         |             0.856485 |
 ## Belgrano
 
 |    | column                  |   feature_importance |
 |---:|:------------------------|---------------------:|
-|  0 | surface_covered         |             53.7635  |
-|  3 | desc_a(mm|m)enities     |              5.70199 |
-|  1 | lat                     |              5.50893 |
-|  2 | lon                     |              4.72526 |
-|  5 | surface_total           |              3.88423 |
-|  4 | desc_pileta|piscina     |              3.78575 |
-|  6 | surface_covered_imputed |              3.05944 |
-|  7 | bathrooms               |              2.04686 |
-|  8 | covered                 |              1.96187 |
-| 10 | desc_emprendimiento     |              1.83399 |
+|  0 | surface_covered         |             53.9155  |
+|  3 | desc_a(mm|m)enities     |              5.69984 |
+|  1 | lat                     |              5.6136  |
+|  2 | lon                     |              4.68152 |
+|  5 | surface_total           |              3.83712 |
+|  4 | desc_pileta|piscina     |              3.7776  |
+|  6 | surface_covered_imputed |              3.0929  |
+|  8 | bathrooms               |              2.02879 |
+|  7 | covered                 |              1.97215 |
+| 11 | desc_emprendimiento     |              1.78736 |
 ## devoto
 
 |    | column                     |   feature_importance |
 |---:|:---------------------------|---------------------:|
-|  0 | surface_covered            |             50.3509  |
-|  1 | surface_total              |              9.52284 |
-|  3 | desc_suite                 |              7.10927 |
-|  2 | bathrooms                  |              5.88196 |
-|  4 | rooms                      |              4.78082 |
-|  5 | lon                        |              4.64539 |
-|  6 | lat                        |              3.31026 |
-|  7 | covered                    |              2.17108 |
-|  9 | property_type_Departamento |              1.66691 |
-| 10 | surface_covered_imputed    |              1.60169 |
+|  0 | surface_covered            |             50.3273  |
+|  1 | surface_total              |              9.56066 |
+|  3 | desc_suite                 |              7.11634 |
+|  2 | bathrooms                  |              5.9084  |
+|  4 | rooms                      |              4.78259 |
+|  5 | lon                        |              4.70189 |
+|  6 | lat                        |              3.27841 |
+|  7 | covered                    |              2.08763 |
+| 10 | surface_covered_imputed    |              1.60763 |
+|  8 | property_type_Departamento |              1.57622 |
