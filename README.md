@@ -708,32 +708,32 @@ Test scores mean=54960.9, std=9798.080077806626
 |  4 | start_month             |             0.675147 |
 ## La Plata
 
-|    | column                |   feature_importance |
-|---:|:----------------------|---------------------:|
-|  0 | surface_covered       |                    0 |
-| 28 | surface_total_imputed |                    0 |
-| 21 | bathrooms             |                    0 |
-| 22 | start_year            |                    0 |
-| 23 | desc_av.              |                    0 |
-| 24 | desc_expensa          |                    0 |
-| 25 | bedrooms              |                    0 |
-| 26 | desc_balcon           |                    0 |
-| 27 | desc_patio            |                    0 |
-| 29 | desc_facultad         |                    0 |
-## Puerto Madero y Catalinas
-
 |    | column                  |   feature_importance |
 |---:|:------------------------|---------------------:|
-|  1 | surface_total           |            48.0183   |
-|  0 | surface_covered         |            42.9589   |
-|  3 | lon                     |             1.89222  |
-|  4 | lat                     |             1.72984  |
-|  5 | desc_ascensor           |             1.19818  |
-|  2 | covered                 |             0.80367  |
-| 19 | desc_parrilla           |             0.502045 |
-|  7 | bathrooms               |             0.331761 |
-| 17 | surface_covered_imputed |             0.327266 |
-|  6 | bathrooms_rooms         |             0.235115 |
+|  0 | surface_covered         |             37.4391  |
+|  1 | surface_total           |             12.311   |
+|  2 | lon                     |             10.5432  |
+|  4 | start_day               |              8.95981 |
+|  3 | start_month             |              7.33484 |
+|  5 | covered                 |              5.51562 |
+|  6 | desc_parrilla           |              5.12988 |
+| 11 | desc_av                 |              2.43189 |
+| 13 | bathrooms_imputed       |              2.30502 |
+| 12 | surface_covered_imputed |              1.75135 |
+## Puerto Madero y Catalinas
+
+|    | column          |   feature_importance |
+|---:|:----------------|---------------------:|
+|  0 | surface_covered |            53.0131   |
+|  1 | surface_total   |            38.0702   |
+|  3 | lon             |             2.09922  |
+|  2 | covered         |             1.83498  |
+|  4 | lat             |             1.3035   |
+|  5 | desc_ascensor   |             1.1553   |
+|  7 | bathrooms       |             0.427355 |
+|  6 | bathrooms_rooms |             0.241224 |
+| 23 | desc_suite      |             0.182555 |
+| 11 | start_month     |             0.181506 |
 ## Corredor Norte
 
 |    | column                |   feature_importance |
@@ -752,16 +752,16 @@ Test scores mean=54960.9, std=9798.080077806626
 
 |    | column              |   feature_importance |
 |---:|:--------------------|---------------------:|
-|  0 | surface_covered     |             32.5276  |
-|  1 | lon                 |             13.8476  |
-|  3 | bathrooms           |             13.754   |
-|  2 | surface_total       |             13.6632  |
-|  4 | lat                 |              7.0283  |
-|  6 | covered             |              2.00893 |
-|  5 | bathrooms_rooms     |              1.75126 |
-| 11 | desc_emprendimiento |              1.49877 |
-| 20 | bedrooms_imputed    |              1.33079 |
-| 14 | desc_pileta|piscina |              1.08071 |
+|  0 | surface_covered     |             33.3197  |
+|  2 | surface_total       |             16.6666  |
+|  1 | lon                 |             14.0677  |
+|  3 | bathrooms           |             12.2097  |
+|  4 | lat                 |              6.50382 |
+|  6 | covered             |              2.35101 |
+| 11 | desc_emprendimiento |              1.2766  |
+|  5 | bathrooms_rooms     |              1.1342  |
+|  8 | desc_parrilla       |              1.08056 |
+| 18 | rooms               |              1.0705  |
 ## Caballito
 
 |    | column                |   feature_importance |
@@ -780,16 +780,16 @@ Test scores mean=54960.9, std=9798.080077806626
 
 |    | column                  |   feature_importance |
 |---:|:------------------------|---------------------:|
-|  0 | surface_covered         |            74.0175   |
-|  1 | lat                     |             5.45611  |
-|  2 | surface_total           |             5.40391  |
-|  3 | lon                     |             3.54028  |
-|  5 | desc_a(mm|m)enities     |             2.55463  |
-|  6 | desc_pileta|piscina     |             2.28627  |
-|  4 | desc_suite              |             1.90449  |
-|  8 | bathrooms               |             1.17433  |
-|  7 | covered                 |             0.484652 |
-| 24 | surface_covered_imputed |             0.341615 |
+|  0 | surface_covered         |            74.9709   |
+|  2 | surface_total           |             6.05006  |
+|  1 | lat                     |             4.46008  |
+|  6 | desc_pileta|piscina     |             3.54876  |
+|  3 | lon                     |             3.41441  |
+|  4 | desc_suite              |             2.05083  |
+|  8 | bathrooms               |             1.15005  |
+|  5 | desc_a(mm|m)enities     |             1.11999  |
+|  7 | covered                 |             0.556186 |
+| 24 | surface_covered_imputed |             0.409228 |
 ## Belgrano
 
 |    | column                  |   feature_importance |
@@ -806,15 +806,15 @@ Test scores mean=54960.9, std=9798.080077806626
 | 16 | bathrooms_imputed       |             0.446005 |
 ## devoto
 
-|    | column              |   feature_importance |
-|---:|:--------------------|---------------------:|
-|  0 | surface_covered     |             50.5841  |
-|  1 | surface_total       |             13.1795  |
-|  2 | lon                 |              9.63353 |
-|  5 | bathrooms           |              5.10469 |
-|  3 | desc_suite          |              3.39337 |
-|  4 | lat                 |              2.99463 |
-|  6 | covered             |              2.98041 |
-| 10 | desc_pileta|piscina |              1.96428 |
-|  7 | bathrooms_rooms     |              1.70193 |
-|  9 | property_type_PH    |              1.6181  |
+|    | column                     |   feature_importance |
+|---:|:---------------------------|---------------------:|
+|  0 | surface_covered            |            52.7876   |
+|  1 | surface_total              |            13.5655   |
+|  2 | lon                        |            10.7614   |
+|  3 | desc_suite                 |             5.51496  |
+|  6 | covered                    |             2.9031   |
+| 10 | desc_pileta|piscina        |             2.39231  |
+|  4 | lat                        |             2.30556  |
+|  8 | property_type_Departamento |             1.33746  |
+|  5 | bathrooms                  |             0.872218 |
+|  9 | property_type_PH           |             0.853878 |
