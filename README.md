@@ -2,98 +2,6 @@
 
 ## Resto de CABA
 
-|    | column                  |   feature_importance |
-|---:|:------------------------|---------------------:|
-|  1 | lon                     |            53.1794   |
-|  0 | surface_covered         |            12.2898   |
-|  3 | surface_total           |            11.0798   |
-|  2 | lat                     |             5.22078  |
-|  7 | surface_covered_imputed |             4.72218  |
-|  4 | desc_av                 |             4.40826  |
-| 19 | bedrooms_rooms          |             1.1964   |
-|  9 | covered                 |             0.791854 |
-| 11 | desc_suite              |             0.686347 |
-| 13 | bathrooms_rooms         |             0.636599 |
-## La Plata
-
-|    | column          |   feature_importance |
-|---:|:----------------|---------------------:|
-|  0 | surface_covered |             20.8325  |
-|  2 | start_month     |             18.5511  |
-|  3 | start_day       |             17.3869  |
-|  1 | lon             |             10.3547  |
-|  4 | desc_parrilla   |              9.56503 |
-|  5 | surface_total   |              7.5762  |
-|  8 | covered         |              7.31215 |
-|  7 | lat             |              2.58233 |
-|  6 | desc_av         |              2.45687 |
-| 17 | desc_parque     |              1.26769 |
-## Puerto Madero y Catalinas
-
-|    | column                  |   feature_importance |
-|---:|:------------------------|---------------------:|
-|  0 | surface_total           |            54.0562   |
-|  1 | surface_covered         |            17.6942   |
-|  2 | lon                     |             7.99487  |
-|  4 | lat                     |             4.52929  |
-|  3 | desc_ascensor           |             3.78829  |
-|  5 | covered                 |             1.1005   |
-|  7 | bathrooms_rooms         |             0.959578 |
-| 11 | bathrooms               |             0.959042 |
-| 10 | start_day               |             0.922849 |
-| 16 | surface_covered_imputed |             0.845933 |
-## Corredor Norte
-
-|    | column                |   feature_importance |
-...
-|  9 | surface_total_imputed |              1.92851 |
-|  6 | covered               |              1.85049 |
-|  8 | start_day             |              1.6148  |
-| 12 | desc_baulera          |              1.50076 |
-Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
-La plata tiene 50 en train y 264 en test
-CABA tiene 20765 en train y 2183 en test
-Pto Madero y Catalinas tiene 847 en train y 100 en test
-Corr norte tiene 4146 en train y 428 en test
-Corr sur tiene 1108 en train y 111 en test
-Caballito tiene 14621 en train y 1373 en test
-Palermo tiene 8818 en train y 875 en test
-Belgrano tiene 5875 en train y 576 en test
-Devoto tiene 948 en train y 90 en test
-bedrooms	bedrooms
-0	18.0	3.0
-1	32743.0	3268.0
-2	24233.0	2704.0
-3	223.0	23.0
-4	5.0	1.0
-5	NaN	1.0
-11	2.0	NaN
-15	1.0	NaN
-(57225, 31)
-bathrooms	bathrooms
-1	68986	4605.0
-2	22962	1227.0
-3	6732	144.0
-4	2188	20.0
-0	860	NaN
-5	588	1.0
-6	107	3.0
-7	20	NaN
-8	9	NaN
-16	4	NaN
-11	4	NaN
-9	4	NaN
-33	3	NaN
-10	2	NaN
-66	2	NaN
-30	1	NaN
-131	1	NaN
-56	1	NaN
-12	1	NaN
-18	1	NaN
-20	1	NaN
-## Resto de CABA
-
 fold=0, score_train=20057.0 score_test=31620.0
 
 fold=1, score_train=19948.0 score_test=39059.0
@@ -292,7 +200,44 @@ fold=6, score_train=15819.0 score_test=72828.0
 
 fold=7, score_train=15094.0 score_test=56992.0
 
-fold=8, score_tr## Resto de CABA
+fold=8, score_train=15164.0 score_test=60015.0
+
+fold=9, score_train=14903.0 score_test=52767.0
+
+Train scores mean=15068.9, std=425.0982762190932
+
+Test scores mean=107751.4, std=139160.6578888029
+
+## devoto
+
+fold=0, score_train=5477.0 score_test=62485.0
+
+fold=1, score_train=5815.0 score_test=34760.0
+
+fold=2, score_train=5446.0 score_test=46884.0
+
+fold=3, score_train=5918.0 score_test=44814.0
+
+fold=4, score_train=6352.0 score_test=44701.0
+
+fold=5, score_train=5151.0 score_test=30226.0
+
+fold=6, score_train=6045.0 score_test=62198.0
+
+fold=7, score_train=6353.0 score_test=44981.0
+
+fold=8, score_train=5528.0 score_test=33052.0
+
+fold=9, score_train=5700.0 score_test=29527.0
+
+Train scores mean=5778.5, std=396.4977931842749
+
+Test scores mean=43362.8, std=11942.748211548482
+
+
+# Feature Importance
+
+## Resto de CABA
 
 |    | column                  |   feature_importance |
 |---:|:------------------------|---------------------:|
